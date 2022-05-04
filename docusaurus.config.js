@@ -7,9 +7,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Read The Question',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: 'rtq-try-docusaurus-mdx/',
+  tagline: 'Read The Question',
+  url: 'https://inside-ninety-six.github.io/',
+  baseUrl: '/rtq-try-docusaurus-mdx/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
