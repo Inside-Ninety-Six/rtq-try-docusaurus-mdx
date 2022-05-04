@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrtq_try_docusaurus_mdx=self.webpackChunkrtq_try_docusaurus_mdx||[]).push([[769],{6770:function(u){u.exports=JSON.parse('{"allTagsPath":"rtq-try-docusaurus-mdx/blog/tags","name":"docusaurus","count":4,"permalink":"rtq-try-docusaurus-mdx/blog/tags/docusaurus"}')}}]);
