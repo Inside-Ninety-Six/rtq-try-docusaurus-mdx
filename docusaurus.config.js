@@ -9,7 +9,7 @@ const config = {
   title: 'Read The Question',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/rtq-try-docusaurus-mdx',
+  baseUrl: 'rtq-try-docusaurus-mdx/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
