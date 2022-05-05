@@ -16,7 +16,7 @@ taddition
 <div class='question question'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   1   &   9   &   2 \\
 {}+ &   8   &   8   &   8 \\
 \hline\\
@@ -29,7 +29,7 @@ $
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   1   &   9   &   2 \\
 {}+ &   8   &   8   &   8 \\
 \hline
@@ -70,7 +70,7 @@ tsubtraction
 <div class='question question'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   8   &   8   &   8 \\
 {}- &   1   &   9   &   2 \\
 \hline \\
@@ -83,7 +83,7 @@ $
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   8   &   8   &   8 \\
 {}- &   1   &   9   &   2 \\
 \hline
@@ -222,7 +222,7 @@ $531 \times 135$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
             &       &       5       & 3     & 1     \\
 {}\times    &       &       1        & 3    & 5     \\
 \hline
@@ -326,7 +326,7 @@ $\pounds 1.28 + 57 \text{p}$
 It is really important to use the right units in calculations and convert where required.
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 &= \pounds1.28 - 57  \text{p} \\\\
 &= 128 \text{p}  + 57  \text{p} \\\\
 &= 185 \text{p} \\\\
@@ -378,7 +378,7 @@ $\pounds 1.28 - 57 \text{p}$
 It is really important to use the right units in calculations and convert where required.
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 &= \pounds1.28 - 57  \text{p} \\\\
 &= 128 \text{p}  - 57  \text{p} \\\\
 &= 71 \text{p} \\\\
@@ -2005,7 +2005,7 @@ Find $\dfrac{5}{8}$ of $240 \ \text{m}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 \dfrac {5}{8} \times{240}\text{m} \\\\
 &=  \dfrac {1200}{8}\\\\
 &=  \dfrac {\cancel {1200}{150}} {\cancel 8} \\\\
@@ -2158,7 +2158,7 @@ $2 \dfrac{1}{2} + 4 \dfrac{1}{4}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 2\dfrac {1}{2} +4\dfrac{1}{4} \\\\
 &=  \dfrac{5}{2} + \dfrac{17}{4} \\\\
 &=  \dfrac{10+17}{4} \\\\
@@ -2194,7 +2194,7 @@ $4 \dfrac{1}{4} - 2 \dfrac{1}{2}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc} 
+\begin{array}{cccccccccccccc} 
 4\dfrac {1}{4} -2\dfrac{1}{2} \\\\ 
 &= \dfrac{17}{4} - \dfrac{5}{2} \\\\ 
 &= \dfrac{17-10}{4} \\\\ 
@@ -2271,7 +2271,7 @@ Calculate
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   4   &   2   &   3 \\
 {}+ &   2   &   3   &   7 \\
 \hline\\
@@ -2306,7 +2306,7 @@ $660$
 <div class='workings'>
 <div class='working'>
 
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   3   &   5   &   4 \\
 {}- &       &   9   &   7 \\
 \hline\\
@@ -2342,7 +2342,7 @@ $67
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
             &       &     &       6       & 7  \\
 {}\times    &       &     &       7       & 3  \\
 \hline
@@ -2380,7 +2380,7 @@ $4122 \div 6$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 &=  4122 \div 6 \\\\
 &=  \dfrac{4122}{6} \\\\
 &=  \dfrac{\cancel{4122}\  \ 687}{\cancel{6}} \\\\
@@ -2506,7 +2506,7 @@ The total number of passengers could be transported by a fleet of $28$ jumbo jet
 $324 \times 28$
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
            &       &       3       & 2     & 4     \\
 {}\times    &       &               & 2     & 8     \\
 \hline
@@ -2616,7 +2616,7 @@ $60\%$ to a fraction in its simplest form
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
 &=  60\div{100} \\\\
 &=  \dfrac{60}{100} \\\\
 &=  \dfrac{6\cancel{0}}{10\cancel{0}} \\\\
@@ -2652,7 +2652,7 @@ $0.12$ to a fraction in its simplest form
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
 &=   12\div{100} \\\\
 &=  \dfrac{12}{100} \\\\
 &=  \dfrac{\cancel{12} \ 3}{\cancel{100} \ 25} \\\\

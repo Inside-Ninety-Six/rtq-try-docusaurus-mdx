@@ -1600,4 +1600,124 @@ $36 \text { m}^2$
 </div>
 </div>
 </li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>B5875D8A-0E59-497A-87D0-9B611FB2A027</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the number ninety nine thousand ninety nine hundred and ninety nine in figures.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9909999$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9909999$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>6419C0CA-625C-4E98-89C3-02A997864D0B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the sizes of angles $x$ and $y$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= x$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 104 \degree  &= 180 \degree  \\\\
+x                &= 180 \degree - 104 \degree \\\\
+x                &= 76 \degree
+\end{aligned}
+$
+
+Let the missing angle $= y$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+76 \degree + y + y     &= 180 \degree                \\\\
+76 \degree +2y         &= 180 \degree                \\\\
+2y                     &= 180 \degree - 76 \degree   \\\\
+2y                     &= 104 \degree                \\\\
+y                      &= \dfrac {104 \degree} {2}   \\\\
+y                      &= \dfrac {52 \times 2} {2}   \\\\
+y                      &= \dfrac {52 \times \cancel {2}} {\cancel {2}} \\\\
+y                      &= 52 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+x   &= 76 \degree \\\\
+y   &= 52 \degree
+$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
 </ul>

@@ -2252,7 +2252,7 @@ $3078 + 256$
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
         &  3 & 0 & 7  & 8 \\
     {}+ &    & 2 & 5  & 6 \\
     \hline
@@ -2299,7 +2299,7 @@ $3078 - 256$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
         &  3 & 0 & 7  & 8 \\
     {}- &    & 2 & 5  & 6 \\
     \hline
@@ -2346,7 +2346,7 @@ $158 \times 23$
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
         &  1   & 5  & 8   \\
     {}- &      & 2  & 3   \\
     \hline
@@ -2728,7 +2728,7 @@ Work out $813 \times 72$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
             &       &       8       & 1     & 3     \\
 {}\times    &       &               & 7     & 2     \\
 \hline
@@ -4186,7 +4186,7 @@ $125 \times 160$
 Let's first multiply the numbers ignoring the zeroes.
 
 $
-\begin{array}{ccccccc}
+\begin{array}{cccccccccccccc}
             &       &       1       & 2     & 5     \\
 {}\times    &       &               & 1     & 6     \\
 \hline
@@ -6369,7 +6369,7 @@ $12.31 + 1.75$
 <div class='working'>
 
 $
-\begin{array}{cccccc}
+\begin{array}{cccccccccccccc}
         &  1 & 2\ .  & 3 & 1\\
     
 {}+     &    & 1\ .  & 7 & 5 \\
@@ -6405,7 +6405,7 @@ $2.76 - 1.842$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
         &  1 & 2\ .  & 3 & 1\\
     
 {}+     &    & 1\ .  & 7 & 5 \\
@@ -6809,7 +6809,7 @@ $11.36 + 3.40$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
  {}+  &    &  3 \ . &  4 & 0 \\
    
@@ -6845,7 +6845,7 @@ $3.54 - 2.34$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
        &  3 \ . &  5 &  4 \\
  {}+      &  2 \ . &  3 & 4 \\
    
@@ -6883,7 +6883,7 @@ $213 \times 17$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
             &       &       2       & 1     & 3     \\
 {}\times    &       &               & 1     & 7     \\
 \hline

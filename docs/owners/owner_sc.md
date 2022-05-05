@@ -260,7 +260,7 @@ Add together $308, 86$ and $4444$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &       &   3   &   0   &   8 \\
     &       &       &   8   &   6 \\
 {}+ &   4   &   4   &   4   &   4 \\
@@ -354,7 +354,7 @@ Multiply $345$ by $67$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
     &                &    3    &    4    &   5 \\
     &    {}\times    &         &    6    &   7 \\
 \hline
@@ -669,7 +669,7 @@ Add together $369$ and $2468$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &       &   3   &   6   &   9 \\
 {}+ &   2   &   4   &   6   &   8 \\
 \hline
@@ -717,7 +717,7 @@ Subtract $364$ from $2046$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &   2   &   0   &   4   &   6 \\
 {}- &       &   3   &   6   &   4 \\
 \hline
@@ -764,7 +764,7 @@ Multiply $193$ by $72$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
     &                &    1    &    9    &   3 \\
     &    {}\times    &         &    7    &   2 \\
 \hline
@@ -970,7 +970,7 @@ Add together $4867$ and $285$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
 4   &  8    &   6   &   7 \\
 {}+ &   2   &   8   &   5 \\
 \hline
@@ -1017,7 +1017,7 @@ Multiply $257$ by $37$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
          &    2    &    5    &   7 \\
 {}\times &         &    3    &   7 \\
 \hline
@@ -1289,7 +1289,7 @@ Subtract $2018$ from $8102$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &   8   &   1   &   0   &   2 \\
 {}+ &   2   &   0   &   1   &   8 \\
 \hline
@@ -1336,7 +1336,7 @@ Multiply $2018$ by $17$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
     &        2       &    0    &    1    &   8 \\
     &    {}\times    &         &    1    &   7 \\
 \hline
@@ -2722,6 +2722,145 @@ $
 <div class='answer'>
 
 $\pounds 2.88$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>27309122-5511-4842-BA1A-FDCDE985F81B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You arrive at a bus stop $18 \ \text{minutes}$ late. The buses run every $45 \ \text{minutes}$. How long do you have to wait for the next bus? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Waiting time for next bus}                                       &= 45 \ \text{minutes} - 18 \ \text{minutes} \\\\
+                                                                       &= 27 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>0F642196-79F1-4CFA-BF49-1BD4515A47BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You have to catch the bus after school. Buses leave school at $15.55$ and $16.35$. If you are $4 \ \text{minutes}$ late for the first bus, how long do you have to wait for the second bus?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Waiting time for second bus}                                     &= \text{Time (Second bus)} - \text{Time (Second bus)} - 4 \ \text{minutes}  \\\\
+                                                                       &= 16.35 - 15.55 - 4 \ \text{minutes} \\\\
+                                                                       &= 40 \ \text{minutes} - 4 \ \text{minutes} \\\\
+                                                                       &= 36 \ \text{minutes}
+
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \ \text{minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>B911493E-6758-4F37-90FE-BF7C46685E6B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Name the two shapes shown below
+
+![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Octagon and Trapezium/Quadrilateral
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Octagon and Trapezium/Quadrilateral
 
 </div>
 </div>
