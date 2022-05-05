@@ -260,7 +260,7 @@ Add together $308, 86$ and $4444$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &       &   3   &   0   &   8 \\
     &       &       &   8   &   6 \\
 {}+ &   4   &   4   &   4   &   4 \\
@@ -354,7 +354,7 @@ Multiply $345$ by $67$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
     &                &    3    &    4    &   5 \\
     &    {}\times    &         &    6    &   7 \\
 \hline
@@ -669,7 +669,7 @@ Add together $369$ and $2468$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &       &   3   &   6   &   9 \\
 {}+ &   2   &   4   &   6   &   8 \\
 \hline
@@ -717,7 +717,7 @@ Subtract $364$ from $2046$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &   2   &   0   &   4   &   6 \\
 {}- &       &   3   &   6   &   4 \\
 \hline
@@ -764,7 +764,7 @@ Multiply $193$ by $72$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
     &                &    1    &    9    &   3 \\
     &    {}\times    &         &    7    &   2 \\
 \hline
@@ -970,7 +970,7 @@ Add together $4867$ and $285$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
 4   &  8    &   6   &   7 \\
 {}+ &   2   &   8   &   5 \\
 \hline
@@ -1017,7 +1017,7 @@ Multiply $257$ by $37$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
          &    2    &    5    &   7 \\
 {}\times &         &    3    &   7 \\
 \hline
@@ -1289,7 +1289,7 @@ Subtract $2018$ from $8102$.
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &   8   &   1   &   0   &   2 \\
 {}+ &   2   &   0   &   1   &   8 \\
 \hline
@@ -1336,7 +1336,7 @@ Multiply $2018$ by $17$.
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
     &        2       &    0    &    1    &   8 \\
     &    {}\times    &         &    1    &   7 \\
 \hline
@@ -1959,6 +1959,482 @@ $\pounds 1.8$
 </ul>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>2AF551EB-ACA0-4BF6-B435-AE0B4D255622</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that
+
+$799 \div 17 = 47$
+
+Use this answer to find
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$799 \div 47 =$
+
+and
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+799 \div 17                                       &= 47 \\\\
+\dfrac {799} {17 \times 47}                       &= 47 \\\\
+799 \div 47                                       &= 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$79900 \div 47 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+799 \div 47                                       &= 17 \\\\
+\dfrac {799 \times 100} {17 \times 47}            &= 17 \times 100 \\\\
+79900 \div 47                                     &= 1700
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1700$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>6B808AC4-4CFF-40C1-8C23-9EF0AB4FCA3D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+taddition
+</li>
+<li>
+tdecimal
+</li>
+<li>
+tsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that 
+
+$34567 - 13579 = 20988$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is
+
+$13579 + 20988 =$
+
+and
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+34567 - 13579                                     &= 20988 \\\\
+13579 + 20988                                     &= 34567
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34567$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$34.567 - 20.988 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+34567 - 13579                                     &= 20988 \\\\
+34567 - 20988                                     &= 13579 \\\\
+\dfrac {34567 - 20988} {1000}                     &= \dfrac {13579} {1000} \\\\
+\dfrac {34567} {1000} - \dfrac {20988} {1000}     &= 13.579 \\\\
+34.567 - 20.988                                   &= 13.579
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13.579$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{fraction}$ between $0.8$ and $0.9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {0.8 + 0.9} {2} \\\\
+&= \dfrac {1.7} {2} \\\\
+&= \dfrac {1.7 \times 10} {2 \times 10} \\\\
+&= \dfrac {17} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {17} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{decimal}$ between $\dfrac{2}{5}$ and $\dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {\dfrac {4 + 5} {10}} {2} \\\\
+&= \dfrac {\dfrac {9} {10}} {2} \\\\
+&= \dfrac {9 \times 2} {10}\\\\
+&= \dfrac {18} {10} \\\\
+&= 1.8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>AA06A2AA-DA70-4A39-976A-D77520D6AB88</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these decimals is the smallest and which is the largest?
+
+$0.7, 0.706, 0.76, 0.759, 0.079$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Smallest $= 0.7$
+
+Largest $= 0.79$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Smallest $= 0.7$
+
+Largest $= 0.79$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>C13C2DC0-79A5-429F-A3B3-BF7542B189E7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these fractions is the smallest and which is the largest?
+
+$\dfrac{1}{3},\dfrac{2}{5},\dfrac{3}{8},\dfrac{7}{20},\dfrac{4}{11}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If two or more fraction has common numerator then fraction with smallest denominator is the largest and fraction with largest denominator is the smallest.
+
+$
+\begin{aligned}
+&= \dfrac {1} {3} , \quad \dfrac {2} {5} , \quad \dfrac{3} {8} , \quad \dfrac{7} {20} , \quad \dfrac {4} {11} \\\\
+&= \dfrac {1 \times 84} {3 \times 84} , \quad \dfrac {2 \times 42} {5 \times 42} , \quad \dfrac {3 \times 28} {8 \times 28} , \quad \dfrac{7 \times 12} {20 \times 12} , \quad \dfrac {4 \times 21} {11 \times 21} \\\\
+&= \dfrac {84} {252} , \quad \dfrac {84} {210} , \quad \dfrac {84} {224} , \quad \dfrac {84} {240} , \quad \dfrac {84} {231}
+\end{aligned}
+$
+
+Let's put them in decending order now.
+
+$
+\begin{aligned}
+&= \dfrac {84} {210}, \quad \dfrac {84} {224}, \quad \dfrac {84}{231}, \quad \dfrac {84}{240}, \quad \dfrac {84}{252} \\\\
+&= \dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {4} {11}, \quad \dfrac {7} {20}, \quad \dfrac {1} {3}
+\end{aligned}
+$
+
+Smallest $= \dfrac {1} {3}$
+
+Largest $= \dfrac {2} {5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Smallest $= \dfrac {1} {3}$
+
+Largest $= \dfrac {2} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>

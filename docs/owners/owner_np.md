@@ -1471,6 +1471,769 @@ $24 \text{ cm}$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
+<p>AF9C3C70-A6C3-43E8-B655-896DA47448FB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For this question you can do rough working on the left hand side of the page if required. 
+
+Put answers only in the spaces on the right.
+
+$2.74 \times 10,000 =$ ..................
+
+$13^2 =$ ..................
+
+The square root of $49$ is .................
+
+The cube root of $125$ is ..................
+
+$4^3 =$ ..................
+
+$\dfrac{240}{300}$ in its simplest form is ..................
+
+$25\% of 68 =$ ..................
+
+$43 \times 38 =$ ..................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2.74 \times 10000 \\\\
+&= 27400
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 13^2 \\\\
+&= 13 \times 13 \\\\
+&= 169
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 49 \\\\
+&= \sqrt {49} \\\\
+&= \sqrt {7^2} \\\\
+&= 7
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 125 \\\\
+&= \sqrt [3] {125} \\\\
+&= \sqrt [3] {5^3} \\\\
+&= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 4^3 \\\\
+&= 64
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= \dfrac {240} {300} \\\\
+&= \dfrac {24 \cancel {0} } {30\cancel {0} } \\\\
+&= \dfrac {24} {3 \times 10} \\\\
+&= \dfrac {8 \times \cancel {3} } {\cancel {3} \times 10} \\\\
+&= \dfrac {8} {10} \\\\
+&= 0.8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 43 \times 38 \\\\
+&= 1634
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27400, 169, 7, 5, 64, 0.8, 1634$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I buy $7$ drinks at $72\text{p}$ each, and $9$ sandwiches at $\pounds 1.21$ each. 
+
+How much $\bold{\underline{change}}$ do I get from a $\pounds 20$ note? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned}
+\text{Total cost}   &= 72\text{p} + 1.21 \times 100 \text{p} \\\\
+                    &= 72 + 121 \\\\
+                    &= 193 \text{p}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Change}  &= 20 \times 100 \text{p} - 193\text{p} \\\\
+               &= 2000 \text{p} - 193 \text}{p} \\\\
+               &= \dfrac {1807} {100} \\\\
+               &= \pounds 18.07
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 18.07$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Martin is given $\pounds 240$. He gives $\dfrac{1}{8}$ to his sister and $\dfrac{1}{5}$ of what remains to his little brother. How much does he keep himself?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+\text{Amount spent}  &=  \dfrac {1} {8} \ times 240 + \dfrac {1} {5} \times 240 \\\\
+                     &=  \dfrac {1} {8} \ times 8 \ times 30 + \dfrac {1} {5} \times 48 \times 5 \\\\
+                     &=  \dfrac {1} {\cancel {8} } \ times \cancel {8} \ times 30 + \dfrac {1} {\cancel {5} } \times 48 \times \cancel {5} \\\\
+                     &=  30  + 48 \\\\
+                     &=  78 
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Amount left}  &= 240 - 78 \\\\
+                    &= \pounds162
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 78$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>37241372-32CF-4C98-A54E-BBD279C33AA8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
+
+![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+
+If they have equal perimeters, what is the difference in their area? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of square $= a$
+
+First lets find the side of sqaure 
+
+As per the question
+
+$
+\begin{aligned}
+4a   &= 70 + 30 + 70 + 30 \\\\
+4a   &= 200 \\\\
+a    &= \dfrac {200} {4} \\\\
+a    &= \dfrac {4 \times 50} {4} \\\\
+a    &= \dfrac {\cancel {4} \times 50} { \cancel {4} } \\\\
+a    &= 50 \text{ cm}
+\end{aligned}
+$
+
+Now lets find the area of two 
+
+$
+\begin{aligned}
+\text{Area of rectangle}  &= 70 \times 30 \\\\
+                          &= 2100 \text{ cm} \\\\
+
+\text{Area of square}     &= a \times a \\\\
+                          &= 50 \times 50 \\\\
+                          &= 2500 \text{ cm}^2. 
+\end{aligned}
+$
+
+The difference between areas
+
+$
+\begin{aligned}
+&= 2500 - 2100 \\\\
+&= 400 \text{ cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$400 \text{ cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a \degree$.
+
+As we all know sum of all angles in triangle $= 180 \degree$
+
+So,
+
+$
+\begin{aligned}
+a + 85 + 33 &= 180 \\\\
+a + 118     &= 180 \\\\
+a           &= 180 - 118 \\\\
+a           &= 62 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpermeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A right angled triangle is shown below. It is not drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the perimeter of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{ Perimeter}   &= 3 + 5.8 + 6 \\\\
+                    &= 14.8 \text{ cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14.8 \text{ cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the area of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of triangle is given by
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times a \times b
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times 3 \times 5 \\\\
+&= \dfrac {15} {2} \\\\
+&= 14.5 \text { cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14.5 \text { cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>88578F99-F6DE-4070-9731-34BD962C4B0A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+The diagram above is not drawn to scale. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A box measures $20\ \text{cm}$ by $11\ \text{cm}$ by $15\ \text{cm}$. Calculate the volume of the box.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Volume}  &= 20 \times 11 \times 15 \\\\
+               &= 3300 \text{ cm}^3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3300 \text{ cm}^3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A string is tied around the box with a bow at the top as shown in the diagram.
+
+$\bold{If\:\: the\:\: length\:\: of\:\: the\:\: bow\:\: is\:\: 8\ \text{cm}}$, calculate the $\underline{total}$ length of string used.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total length of string}  &= 8 + \text {length of all sides} \\\\
+                               &= 8 + (2 \times 11 +  2 \times 15 ) + (2 \times 20 + 2 \times 15) \\\\
+                               &= 8 + (22 + 30) + (40 + 30) \\\\
+                               &= 8 + 52 + 70 \\\\
+                               &= 130 \text{ cm} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130 \text{ cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>6C7BE121-B86D-4FE7-A747-6364A8DD4633</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $4 - ((4 + 4) \div 4)$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=   4 - ( (4 + 4) \div 4) \\\\
+&=   4 - (8 \div 4) \\\\
+&=   4 - \dfrac {4 \times 2} {4} \\\\
+&=   4 - \dfrac {\cancel {4} \times 2} {\cancel {4} } \\\\
+&=   4 - 2 \\\\
+&=  2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>2BED9D4A-8D69-441E-8E45-9BDB4DE30AD0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that $2357 \times 99 = 233343$, find: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$233343 \div 99$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= 233343 \div 99 \\\\
+&= \dfrac {233343} {99} \\\\
+&= 2357
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2357$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$235.7 \times 99$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+&= 235.7 \times 99 \\\\
+&= (\dfrac {2357 \times 99} {10} )\\\\
+&= 233343 \times 10 \\\\
+&= 2333430
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2333430$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
 <p>469D229E-728D-4AC5-9C0D-417EB0BBF6F7</p>
 </div>
 <div class='topics'>
@@ -1489,7 +2252,7 @@ Work out $813 \times 72$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
             &       &       8       & 1     & 3     \\
 {}\times    &       &               & 7     & 2     \\
 \hline
@@ -2947,7 +3710,7 @@ $125 \times 160$
 Let's first multiply the numbers ignoring the zeroes.
 
 $
-\begin{array}{ccccccc}
+\begin{array}{cccccccccccccc}
             &       &       1       & 2     & 5     \\
 {}\times    &       &               & 1     & 6     \\
 \hline
@@ -4059,6 +4822,67 @@ $\dfrac {15} {28}$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
+<p>B6EEAA19-D6EB-4A7E-8078-F1B4EA5EB197</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If I buy $6$ pens at $\pounds 1.15$ each and 10 refills at $56 \text{p}$ each, how much change will I get if I pay with a $\pounds 20$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert all amounts into pence.
+
+$
+\begin{aligned}
+\text{Total amount spent}   &= \pounds1.15 \times 100\text{p} + 56p \\\\\
+                            &= 115\text{p} + 56p \\\\
+                            &= 171\text{p} \\\\
+\pounds 20 \text{ in pence} &= \pounds20 \times 100p \\\\
+                            &=  2000\text{p}                      
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Change}      &= 2000\text{p} - 171\text{p} \\\\
+                   &= 1829\text{ p}
+                   &=  \dfrac {1829} {100}  \\\\
+                   &= \pounds 18.29
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 18.29$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
 <p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
 </div>
 <div class='topics'>
@@ -5069,7 +5893,7 @@ $12.31 + 1.75$
 <div class='working'>
 
 $
-\begin{array}{cccccc}
+\begin{array}{cccccccccccccc}
         &  1 & 2\ .  & 3 & 1\\
     
 {}+     &    & 1\ .  & 7 & 5 \\
@@ -5105,7 +5929,7 @@ $2.76 - 1.842$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
         &  1 & 2\ .  & 3 & 1\\
     
 {}+     &    & 1\ .  & 7 & 5 \\
@@ -5509,7 +6333,7 @@ $11.36 + 3.40$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
       &  1 &  1 \ . &  3 &  6 \\
  {}+  &    &  3 \ . &  4 & 0 \\
    
@@ -5545,7 +6369,7 @@ $3.54 - 2.34$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
        &  3 \ . &  5 &  4 \\
  {}+      &  2 \ . &  3 & 4 \\
    
@@ -5583,7 +6407,7 @@ $213 \times 17$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
             &       &       2       & 1     & 3     \\
 {}\times    &       &               & 1     & 7     \\
 \hline

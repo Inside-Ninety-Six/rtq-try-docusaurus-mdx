@@ -6334,6 +6334,268 @@ $\pounds 3.66$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
+<p>0CC40F6E-A0EB-4D96-A29B-510F9BBC8915</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sophie carried out a survey and asked her friends what their favourite snack was at break time. The bar chart below shows her results.
+
+%graph%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many liked fruit best?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many more people liked crisps than biscuits?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15 - 7 \\\\
+&= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many friends did she ask in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total friends} &=  5 + 7 + 14 + 15 + 11 \\\\
+                     &=  52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>C2D737F9-91B0-47F7-90B0-65A55CE61B78</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Underneath each shape write down its name.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Parallelogram}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Parallelogram}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Kite}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Kite}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Octagon}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Octagon}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
 <p>8B6FD361-A184-4175-AE28-7BB1566311AB</p>
 </div>
 <div class='topics'>
@@ -6449,6 +6711,108 @@ $
 <div class='answer'>
 
 $\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>422F78A1-EBFB-4834-9E93-8E37FE51E544</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%graph% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What Maths word is spelt out by these coordinates?
+
+$(5 , 4)\:\: (1, 3)\:\: (6, 3)\:\: (3, 4)\:\: (6, 5)\:\: (5, 3)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Obtuse}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Obtuse}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What does this word mean?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Obtuse angle is any angle greater than 90\degree}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Obtuse angle is any angle greater than 90\degree}$
 
 </div>
 </div>
@@ -6614,6 +6978,396 @@ $43, 37$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
+<p>143C7006-44B5-49D4-BF75-6AB0ECEAF105</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+all the factors of $24$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1, 2, 3, 4, 6, 8, 12, 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1, 2, 3, 4, 6, 8, 12, 24$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the first $4$ multiples of $7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7, 14 , 21, 28$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7, 14 , 21, 28$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the $\text{third square number}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the $\text{fifth}$ prime number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$11$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A child’s heart beats $80$ times per minute. How many times will it beat between $8.30\ \text{am}$ and $3.30\ \text{pm}$ on the same day? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3 {:} 30 - 8 {:} 30 \\\\
+&= 15 {:} 30 - 8 {:} 30 \\\\
+&= 7 \ \text {hours} \\\\
+&= 7 \times 60 \ \text {minutes} \\\\
+&= 420 \ \text {minutes}  
+\end{aligned}
+$
+
+For one minute child'd heart beats $=80$
+For 420 minute child's heart beats ,
+
+$
+&= 420 \times 80 \\\\
+&= 33600
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33600$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>2D66279A-3B8B-479F-AC1F-E867CF685CAD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number of goals scored by St Francis’ netball team in their last $10$ games are as follows.
+
+$7\:\:\: 2\:\:\: 12\:\:\: 10\:\:\: 5\:\:\: 3\:\:\:  7\:\:\:  11\:\:\:  6\:\:\:  4$
+
+Find the mean 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mean} &= \dfrac {7 + 2 + 12 + 10 + 5 + 3 + 7 + 11 + 6 + 4} {10} \\\\
+             &= \dfrac {67} {10} \\\\
+             &= 6.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6.7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>4E448E47-3FCD-4DF3-9CE7-C0E8ED3022C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+testimate
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Round $7285$ to the nearest
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7290$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7290$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$100$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7300$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7300$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1000$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7000$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7000$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
 <div class='topics'>
@@ -6757,6 +7511,314 @@ $73 \degree, 107 \degree$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>16DF0399-C970-4AFF-A8B9-931D0D72EE36</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the area of this shape. Give the units with your answer.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of half triangle,
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times \ \text{base} \times \ \text{height} \\\\
+&= \dfrac {1} {2} \times 5 \times 6 \\\\
+&= \dfrac {5 \times 3 \times 2} {2} \\\\
+&= \dfrac {5 \times 3 \times \cancel{2}} {\cancel{2}} \\\\
+&= 5 \times 3 \\\\
+&= 15 \ \text{cm}^2
+\end{aligned}
+$
+
+Area of full triangle,
+$
+\begin{aligned}
+\text{Area} &= 15 + 15 \\\\
+            &= 30 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>B40C9067-5309-4BDD-A6D3-04C7A850101A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number, multiply it by $2$ and subtract $5$. The answer is $11$. What is my number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+$
+\begin{aligned}
+a \times 2 - 5 &= 11 \\\\
+a \times 2     &= 11 + 5 \\\\
+a \times 2     &= 16 \\\\
+a              &= \dfrac {16} {2} \\\\
+a              &= \dfrac {8 \times 2} {2} \\\\
+a              &= \dfrac {8 \times \cancel{2}} {\cancel{2}} \\\\
+a              &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Emily carried a survey and asked her friends what their favourite flavour of crisps is. She drew a pie chart of her results
+
+%chart% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of her friends liked cheese and onion the best?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {12} \\\\
+&= \dfrac {3} {3 \times 4} \\\\
+&= \dfrac {\cancel{3}} {\cancel{3} \times 4} \\\\
+&= \dfrac {1} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $6$ of her friends liked prawn cocktail best, how many of her friends said salt and vinegar were their favourite flavour?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 \times 2 \\\\
+&= 10 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many of Emily’s friends took part in the survey?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>63C4F3BE-D2C6-4E98-855E-5D5855C71697</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvenn
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A school has $657$ pupils. There are $384$ pupils in Year $9$ or above and $376$ in Year $9$ or below. How many pupils are there in Year $9$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First number of students
+
+$
+\begin{aligned}
+&= 384 + 376 \\\\
+&= 760
+\end{aligned}
+$
+
+Present time students
+$
+&= 760 - 657 \\\\
+&= 103
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$103$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1.toml</p>
 </div>

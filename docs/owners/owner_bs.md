@@ -16,7 +16,7 @@ taddition
 <div class='question question'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   1   &   9   &   2 \\
 {}+ &   8   &   8   &   8 \\
 \hline\\
@@ -29,7 +29,7 @@ $
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   1   &   9   &   2 \\
 {}+ &   8   &   8   &   8 \\
 \hline
@@ -70,7 +70,7 @@ tsubtraction
 <div class='question question'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   8   &   8   &   8 \\
 {}- &   1   &   9   &   2 \\
 \hline \\
@@ -83,7 +83,7 @@ $
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   8   &   8   &   8 \\
 {}- &   1   &   9   &   2 \\
 \hline
@@ -222,7 +222,7 @@ $531 \times 135$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
             &       &       5       & 3     & 1     \\
 {}\times    &       &       1        & 3    & 5     \\
 \hline
@@ -326,7 +326,7 @@ $\pounds 1.28 + 57 \text{p}$
 It is really important to use the right units in calculations and convert where required.
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 &= \pounds1.28 - 57  \text{p} \\\\
 &= 128 \text{p}  + 57  \text{p} \\\\
 &= 185 \text{p} \\\\
@@ -378,7 +378,7 @@ $\pounds 1.28 - 57 \text{p}$
 It is really important to use the right units in calculations and convert where required.
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 &= \pounds1.28 - 57  \text{p} \\\\
 &= 128 \text{p}  - 57  \text{p} \\\\
 &= 71 \text{p} \\\\
@@ -2005,7 +2005,7 @@ Find $\dfrac{5}{8}$ of $240 \ \text{m}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 \dfrac {5}{8} \times{240}\text{m} \\\\
 &=  \dfrac {1200}{8}\\\\
 &=  \dfrac {\cancel {1200}{150}} {\cancel 8} \\\\
@@ -2158,7 +2158,7 @@ $2 \dfrac{1}{2} + 4 \dfrac{1}{4}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 2\dfrac {1}{2} +4\dfrac{1}{4} \\\\
 &=  \dfrac{5}{2} + \dfrac{17}{4} \\\\
 &=  \dfrac{10+17}{4} \\\\
@@ -2194,7 +2194,7 @@ $4 \dfrac{1}{4} - 2 \dfrac{1}{2}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc} 
+\begin{array}{cccccccccccccc} 
 4\dfrac {1}{4} -2\dfrac{1}{2} \\\\ 
 &= \dfrac{17}{4} - \dfrac{5}{2} \\\\ 
 &= \dfrac{17-10}{4} \\\\ 
@@ -2271,7 +2271,7 @@ Calculate
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   4   &   2   &   3 \\
 {}+ &   2   &   3   &   7 \\
 \hline\\
@@ -2306,7 +2306,7 @@ $660$
 <div class='workings'>
 <div class='working'>
 
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   3   &   5   &   4 \\
 {}- &       &   9   &   7 \\
 \hline\\
@@ -2342,12 +2342,12 @@ $67
 <div class='working'>
 
 $
-\begin{array}{ccccc}
-            &       &       6       & 7   \\
-{}\times    &       &       7       & 3   \\
+\begin{array}{cccccccccccccc}
+            &       &     &       6       & 7  \\
+{}\times    &       &     &       7       & 3  \\
 \hline
-            &      &       2       & 0     & 1     \\
-            &  4   &       6       & 9     & 0     \\
+            &      &       2       & 0     & 1  \\
+            &  4   &       6       & 9     & 0  \\
 \hline
            &   4   &       8       & 9     & 1
 \end{array}
@@ -2380,7 +2380,7 @@ $4122 \div 6$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
 &=  4122 \div 6 \\\\
 &=  \dfrac{4122}{6} \\\\
 &=  \dfrac{\cancel{4122}\  \ 687}{\cancel{6}} \\\\
@@ -2439,6 +2439,338 @@ $
 <div class='answer'>
 
 $\text{twenty one thousand one hundred seventy one}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>BEE41EE6-C7C6-4063-ACAF-9A44CDF54241</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A jumbo jet can take 324 passengers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many passengers could be transported by a fleet of 28 jumbo jets? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+A jombo jet can take $324$ passengers.
+
+The total number of passengers could be transported by a fleet of $28$ jumbo jets.
+
+$324 \times 28$
+
+$
+\begin{array}{cccccccccccccc}
+           &       &       3       & 2     & 4     \\
+{}\times    &       &               & 2     & 8     \\
+\hline
+            &  2    &       5       & 9     & 2     \\
+           &  2    &       1       & 3     & 0     \\
+\hline
+          &      9&       0       & 7     & 2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9072$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the answer to the nearest 100?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9000$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9000$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2F56FD4F-E0EC-48C9-8B9F-6E6C23752C49</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Convert 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$60\%$ to a fraction in its simplest form
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+&=  60\div{100} \\\\
+&=  \dfrac{60}{100} \\\\
+&=  \dfrac{6\cancel{0}}{10\cancel{0}} \\\\
+&=  \dfrac{\cancel{6} \ 3}{\cancel{10} \ 5} \\\\
+&=  \boxed{\dfrac{3}{5}}
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\boxed{\dfrac{3}{5}}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.12$ to a fraction in its simplest form
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+&=   12\div{100} \\\\
+&=  \dfrac{12}{100} \\\\
+&=  \dfrac{\cancel{12} \ 3}{\cancel{100} \ 25} \\\\
+&=  \boxed{\dfrac{3}{25}}
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\boxed{\dfrac{3}{25}}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>06C36DDD-4E1C-4C82-9BFD-56DF015652DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arrange the following numbers in order from smallest to largest 
+
+9.7 , 9.63 , 9.099 , 9.199 , 9.20001 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+let's put them in ascending order.
+
+$
+\begin{aligned}
+&= 9.099, \quad 9.199, \quad 9.2001, \quad  9.36, \quad 9.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.099, \quad 9.199, \quad 9.2001, \quad  9.36, \quad 9.7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>5532584A-CE17-4B4B-B43F-B4E567FC5002</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Marie bought seven cinema tickets for $\pounds 58.10$. How much was each ticket? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Marie bought $7$ cinema ticket for $\pounds 58.10$.
+
+$
+\begin{aligned}
+\text{Let the cost be  x for 1 ticket} \\
+\text{then}\ \ &   7x = 58.10 \\\\
+               &   x = \dfrac{58.10}{7} \\\\
+               &   x = \dfrac{\cancel{58.10} \  \ 8.3}{\cancel{7}} \\\\
+               &   x =\pounds 8.3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.3$
 
 </div>
 </div>

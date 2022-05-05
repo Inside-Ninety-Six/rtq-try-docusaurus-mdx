@@ -1954,6 +1954,1106 @@ $48$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
+<p>D29C2F36-7EB5-46B2-8EF3-61D8FC17FEFD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write, in the box, the missing numbers:
+
+$\boxed{\phantom{111}}+ 121 = 212$
+
+$6 \times \boxed{\phantom{111}} = 96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Mising number $= 212 -121$
+$= 91$
+
+$\boxed{78}+ 121 = 212$
+
+Missing number $
+\begin{aligned}
+&= \dfrac{96} {6} \\\\
+&= \dfrac{6 \times 16} {6} \\\\
+&= \dfrac{\cancel{6} \times 16} {\cancel{6}} \\\\
+&= 16
+\end{aligned}
+$
+
+$6 \times \boxed{16} = 96$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$91, 16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>95B95D83-440E-4D37-9093-A8502BF8615F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $37 \times 4 \times 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$37 \times 4 \times 5 = 37 \times 20$
+
+$
+\begin{array}{cccccccccccccc}
+        &   3   &   7 \\
+\times  &   2   &   0 \\
+\hline
+        &   0   &   0 \\
+   7    &   4   &   0 \\
+\hline 
+7       &   4   &   0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$740$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>7B4003E7-EBF5-425C-9D44-B0E047531A36</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $1.1 \times (1.2 + 1.3) \times 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1.1 \times (1.2 + 1.3) \times 2 \\\\
+&= 1.1 \times 2.5 \times 2 \\\\
+&= 1.1 \times 5 \\\\
+&= 5.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>C42057EE-31C0-41F9-A55F-42198886E116</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write these numbers in the boxes below, **in order of size**, starting with the **smallest**:
+
+$6.01 \quad 16.0 \quad 0.61 \quad 1.60 \quad 6.1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages.
+
+In this case, there are more decimals than fractions.
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= 6.01,  \quad   16.0,  \quad   0.61,  \quad   6.1 \\\\
+&= 0.61,  \quad   6.01,  \quad   6.1,  \quad   16.0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.61,  \quad   6.01,  \quad   6.1,  \quad   16.0$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>8B86594B-D155-4131-86F4-90AD8D47F02B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write these fractions in the boxes below, **in order of size**, starting with the **smallest**:
+
+$\dfrac{3}{4} \quad \dfrac{3}{5} \quad \dfrac{9}{10} \quad \dfrac{17}{20}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $4, 5, 10, 20 = 20$
+
+$
+\begin{aligned}
+&= \dfrac{3}{4}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10} \quad\dfrac{17}{20} \\\\
+&= \dfrac{3 \times 5}{5 \times 5}, \quad \dfrac{3 \times 4}{5 \times 4}, \quad \dfrac{9 \times 2}{10 \times 2} \quad\dfrac{14}{20} \\\\
+&= \dfrac{15}{20}, \quad \dfrac{12}{20}, \quad \dfrac{18}{20} \quad\dfrac{14}{20}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac{12}{20}, \quad \dfrac{14}{20}, \quad  \dfrac{15}{20}, \quad \dfrac{18}{20} \\\\
+&= \dfrac{3}{5}, \quad \dfrac{14}{20}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{5}, \quad \dfrac{14}{20}, \quad \dfrac{3}{5}, \quad \dfrac{9}{10}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put a circle around all the numbers that are between $2.2$ and $2.6$
+
+$2 \dfrac{1}{2} \quad 2 \dfrac{1}{7} \quad 2 \dfrac{6}{11} \quad 2 \dfrac{2}{5} \quad 2 \dfrac{1}{10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's convert all the frations into decimals.
+
+$
+\begin{aligned}
+2 \dfrac{1}{2}      &= \dfrac{5}{2} = 2.5 \\\\
+2 \dfrac{1}{7}      &= \dfrac{15}{7} = 2.14 \\\\
+2 \dfrac{6}{11}     &= \dfrac{28}{11} = 2.55 \\\\
+2 \dfrac{2}{5}      &= \dfrac{12}{5} = 2.4 \\\\
+2 \dfrac{1}{10}     &= \dfrac{21}{10} = 2.1 \\\\
+\end{aligned}
+$
+
+Numbers between $2.2$ and $2.6$
+
+$
+\begin{aligned}
+&= 2.5, \quad 2.55, \quad 2.4 \\\\
+&= 2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \dfrac{1}{2}, 2 \dfrac{6}{11}, 2 \dfrac{2}{5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mary, Jess and Jo run a race. 
+
+Jess's time is $18 \ \text{seconds}$. 
+
+Jo finishes $6 \ \text{seconds}$ before Jess. 
+
+Mary finishes $4 \ \text{seconds}$ after Jo. 
+
+What is **Mary's time** in seconds?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Time taken by Jess $= 18 \ \text{seconds}$
+
+$
+\begin{aligned}
+\text{Time taken by Mari}       &= \text{Time taken by Jo} + 4 \\\\
+                                &= \text{Time taken by Jess} + 6 - 4 \\\\
+                                &= 18 + 6 - 4 \\\\
+\text{Time taken by Mari}       &= 20 \ \text{seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{seconds}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>495FD032-B939-449E-9F1F-6F8D821D8B70</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write **one number** which fits **all three** of these statements:
+
+It is a multiple of $3$
+It is a multiple of $8$
+It ends in '$2$'
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The number is a multiple of both $3$ and $8$. Since $3$ and $8$ have no factors in common,
+the number is multiple of $3 \times 8 = 24$
+
+Multiples of $24 = 24, 48, 72, ....$
+
+Since the number ends with $2$ , the required number $= 72$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$72$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>23F08023-3E57-40D1-BED1-91FEF237609C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put a circle around **all** the amounts that can be made with **three** coins:
+
+$13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \text{p}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+13 \text{p}     &= 1 \times 10 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
+23 \text{p}     &= 1 \times 20 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p} \\\\
+53 \text{p}     &= 1 \times 50 \text{p} + 1 \times 2 \text{p} + 1 \times 1 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \text{p},23 \text{p},53 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>DA1C609B-7D16-4855-AF28-E9B812315F33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is part of a number sequence. The numbers increase by the same amount each time.
+
+$150, 165, 180, 195, 210$
+
+The sequence continues. 
+
+Circle **all** of the numbers below that would appear in the sequence:
+
+$315 \quad 561 \quad 240 \quad 620 \quad 964$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the pattern in the consecutive terms of the sequence.
+
+$
+\begin{matrix}
+    \footnotesize{\maroonC{(15 \times 10)}} 
+&&  \footnotesize{\maroonC{(15 \times 11)}}  
+&&  \footnotesize{\maroonC{(15 \times 12)}}   
+&&  \footnotesize{\maroonC{(15 \times 13)}}   
+&&  \footnotesize{\maroonC{(15 \times 14)}}
+&&  \footnotesize{\maroonC{(15 \times 15)}}  \\
+150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
+\end{matrix}
+$
+
+The numbers are in the increasing order of multiples of 15. So, to be in the sequence, the number must be divisible by both 15.
+
+Henceforth, the number must be divisible by 3 and 5 both.
+
+$
+\begin{aligned}
+&= 315 \ \text{is divisible by both} 3,5 \\\\
+&= 240 \ \text{is divisible by both} 3,5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$315, 240$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Abigail gets up at $07{:}40$ in the morning. 
+
+$25 \ \text{minutes}$ later she starts her breakfast, which takes $10 \ \text{minutes}$ to finish. 
+
+She then leaves for school.  Her journey takes $35 \ \text{minutes}$ in total. 
+
+She arrives $5 \ \text{minutes}$ late for registration. 
+
+At what time is registration?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
+                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
+                              &= 8{:}45 \ \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8{:}45 \ \text{am}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>1F54DF7F-1E4E-4CDC-A7A2-5D50C56188C5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Emily scores $30$ out of $60$ in a test.
+
+Hebe scores $60\%$ in the same test.
+
+How many more marks did Hebe get than Emily?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Hebe score}       &= 60\% \ \text{of} \ 60 \\\\
+                        &= \dfrac {60}{100} \times 60 \\\\
+                        &= \dfrac{60 \times 60}{100} \\\\
+                        &= \dfrac{6 \cancel{0} \times 6 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+\text{Hebe score}       &=36
+\end{aligned}
+$
+
+Marks greater than Emily $= 36 - 30 = 6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>ED0E72A9-DD21-4A7F-9701-21CDEA62D691</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop sells apples and oranges.
+
+Kate buys  $1$ apple and $2$ oranges. She paid $48 \text{p}$.
+
+Jade buys  $1$ apple and $1$ orange. She paid $31 \text{p}$.
+
+How much does $1$ orange cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of $1$ orange $= a \ \text{p}$
+
+As per the question,
+
+$
+\begin{aligned}
+1 \ \text{apple} + 2 \times a                   &= 48 \ \text{p} \\\\
+1 \ \text{apple} + 1 \times a + 1 \times a      &= 48 \\\\
+31 \ \text{p} +  1 \times a                     &= 48 \\\\
+a                                               &= 48 - 31 \\\\
+a                                               &= 17 \ \text{p}
+\end{aligned}
+$
+
+The cost of $1$ orange $= 17 \ \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17 \ \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>4D8E25F8-9D3B-41E4-A587-01F4188FD3F2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alysha and Julia each have some money. 
+
+Altogether they have $\pounds 3.20$. 
+
+Alysha gives Julia $20 \text{p}$ so that they both have the same amount. 
+
+How much money did each have at the start?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the money with Alysha $= a \pounds$
+
+As per the question,
+
+Money with Julia $= 3.2 - a$
+
+Alysha gives $20 \text{p} = 0.2 \pounds$ to Julia to have same amount.
+
+$
+\begin{aligned}
+a - 0.2     &= 3.2 - a + 0.2 \\\\
+a           &= 3.6 - a \\\\
+2a          &= 3.6 \\\\
+a           &= \dfrac{3.6}{2} \\\\
+a           &= \dfrac{36}{20} \\\\
+a           &= \dfrac{18 \times 2}{10 \times 2} \\\\
+a           &= \dfrac{18 \times \cancel{2}}{10 \times \cancel{2}} \\\\
+a           &= \dfrac{18}{10} \\\\
+a           &= \pounds 1.8
+\end{aligned}
+$
+
+Money with Alysha $= \pounds 1.8$
+
+Money with Julia $= 3.2 - 1.8 = \pounds 1.4$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.8, \pounds 1.4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>8887F042-1EF1-4B73-B76D-1171B3382465</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$70$ children need $3$ pens each.
+
+Pens are sold in packs of $8$.
+
+How many packs of pens need to be bought?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Packs to be brought
+
+$
+\begin{aligned}
+&= \dfrac{Total pens} {Pens per pack} \\\\
+&= \dfrac{3 \times 70}{8} \\\\
+&= \dfrac{210}{8} \\\\
+&= 26 \dfrac{1}{4} \\\\
+\end{aligned}
+$
+
+Packs required $= 26 + 1 = 27$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>E1623FA7-4357-40D5-B38B-F87B2832B3C4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The cost for using a minibus is $\pounds 2.42$ for each kilometre.
+
+$11$ friends go on a $32 \ \text{kilometre}$ journey using $1$ minibus.
+
+They share the cost equally.
+
+How much does each person pay?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\text{Cost per person}      &= \dfrac{Total cost} {Total persons} \\\\
+                            &= \dfrac{2.42 \times 32}{11} \\\\
+                            &= \dfrac{2.42 \times 100 \times 32}{11 \times 100} \\\\
+                            &= \dfrac{242 \times 32} {11 \times 100} \\\\
+                            &= \dfrac{11 \times 11 \times 2 \times 32} {11 \times 100} \\\\
+                            &= \dfrac{11 \times 2 \times 32} {100} \\\\
+                            &= \dfrac{704}{100} \\\\
+\text{Cost per person}      &= \pounds 7.04
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.04$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two whole numbers are each between $40$ and $60$. 
+
+They multiply to make $2385$. 
+
+Write in the missing numbers in the boxes below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$2385$ ends with $5$. So, it must either be divisible by $45$ or $55$.
+
+$45 \times 53 = 2385$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45, 53$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If I treble a number and add $6$, I get the same answer as when I add $16$ to that number. What is my original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number i think $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 3 + 6      &= a + 16 \\\\
+3a + 6              &= a + 16 \\\\
+3a - a              &= 16 - 6 \\\\
+2a                  &= 10 \\\\
+a                   &= \dfrac{10}{2} \\\\
+a                   &= \dfrac{5 \times 2}{2} \\\\
+a                   &= \dfrac{5 \times \cancel{2}}{\cancel{2}} \\\\
+a                   &= 5
+\end{aligned}
+$
+
+The number $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
+<p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My money box contains an equal number of $5 \text{p}, 10 \text{p}$ and $20 \text{p}$ coins and no other coins. 
+How many coins are there altogether if there is $\pounds 4.90$ in the money box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+5 \times c + 10 \times c + 20 \times c  &= 490 \\\\
+5c + 10c + 20c                          &= 490 \\\\
+35c                                     &= 490 \\\\
+c                                       &= \dfrac {490} {35} \\\\
+c                                       &= \dfrac {2 \times 7 \times 7 \times 5} {7 \times 5} \\\\
+c                                       &= \dfrac {2 \times 7 \times \cancel{7} \times \cancel{5}} {\cancel{7} \times \cancel{5}} \\\\
+c                                       &= 2 \times 7
+c                                       &= 14
+\end{aligned}
+$
+
+There are $14$ coins of each type and $3$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins} &=  14 \times 3  \\\\
+&= 42 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
 <p>4B61C938-79C7-44C1-871D-5818101388C0</p>
 </div>
 <div class='topics'>
@@ -6584,7 +7684,7 @@ $462 + 391$
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &   4   &   6   &   2 \\
 {}+ &   3   &   9   &   1 \\
  \hline
@@ -6619,7 +7719,7 @@ $700 - 348$
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
     &   7   &   0   &   0 \\
 {}- &   3   &   4   &   8 \\
 \hline
@@ -6654,7 +7754,7 @@ $37 \times 6$
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
         &   3   &   7 \\
 \times  &       &   6 \\
 \hline
@@ -6825,7 +7925,7 @@ $68 \times 24$
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
 &           &   6   &   8 \\
 &   \times  &   2   &   4 \\
 \hline
@@ -7004,7 +8104,7 @@ $371 \times 20$
 Let's first multiply the numbers ignoring the zeroes.
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
         &   3   &   7   &   1 \\
 \times  &       &       &   2 \\
 \hline
@@ -11034,7 +12134,7 @@ $9728 + 675$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
       &     9     &     7     &     2     &     8 \\
 {}+   &           &     6     &     7     &     5 \\
 \hline
@@ -11069,7 +12169,7 @@ $1003 - 637$
 <div class='working'>
 
 $
-\begin{array}{ccccc}
+\begin{array}{cccccccccccccc}
       &     1     &     0     &     0     &     3 \\
 {}-   &           &     6     &     3     &     7 \\
 \hline
@@ -11104,7 +12204,7 @@ $87 \times 93$
 <div class='working'>
 
 $
-\begin{array}{cccc}
+\begin{array}{cccccccccccccc}
 &           &   8   &   7 \\
 &\times     &   9   &   3 \\
 \hline

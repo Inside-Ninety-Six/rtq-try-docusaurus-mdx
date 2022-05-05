@@ -4170,7 +4170,7 @@ Work out $3456 + 789$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   3   &   4   &   5   &   6 \\
 {}+     &   &   7   &   8   &   9 \\
 \hline
@@ -4217,7 +4217,7 @@ Work out $3456 - 789$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   3   &   4   &   5   &   6 \\
 {}- &       &   7   &   8   &   9 \\
 \hline
@@ -4264,7 +4264,7 @@ Work out $418 \times 7$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
             &   4   &   1   &   8 \\
 \times      &       &       &   7 \\
 \hline
@@ -4950,7 +4950,7 @@ Work out $345 + 6789$
 <div class='working'>
 
 $
-\begin{array}{cccccc}
+\begin{array}{cccccccccccccc}
         &   3   &   4   &   5 \\
 {}+ 6   &   7   &   8   &   9 \\
 \hline
@@ -4997,7 +4997,7 @@ Work out $3201 - 456$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   3   &   2   &   0   &   1 \\
 {}- &       &   4   &   5   &   6 \\
 \hline
@@ -5044,7 +5044,7 @@ Work out $865 \times 7$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
        &   8   &   6   &   5 \\
 \times &       &       &   7 \\
 \hline
@@ -5356,7 +5356,7 @@ $0.04 \quad 0.6 \quad 0.16$
 Remember to line up the decimal points.
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     0 \ .   &   0   &   4 \\
     0 \ .   &   6   &   0 \\
 {}+ 0 \ .   &   1   &   6 \\
@@ -5665,7 +5665,7 @@ Work out $2345 + 678$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   2   &   3   &   4   &   5 \\
 {}+     &   &   6   &   7   &   8 \\
 \hline
@@ -5712,7 +5712,7 @@ Work out $2345 - 678$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   2   &   3   &   4   &   5 \\
 {}-     &   &   6   &   7   &   8 \\
 \hline
@@ -5759,7 +5759,7 @@ Work out $3024 \times 8$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
    &   3    &   0   &   2   &   4 \\
 \times &    &       &       &   8 \\
 \hline
@@ -5971,7 +5971,7 @@ $0.7 \quad 0.04 \quad 1.006$
 Remember to line up the decimal points.
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     0 \ .   &   7   &   0   &   0 \\
     0 \ .   &   0   &   4   &   0 \\
 {}+ 1 \ .   &   0   &   0   &   6 \\
@@ -6019,7 +6019,7 @@ Work out $2015 + 329$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   2   &   0   &   1   &   5 \\
 {}+     &   &   3   &   2   &   9 \\
 \hline
@@ -6066,7 +6066,7 @@ Work out $2015 - 329$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
     &   2   &   0   &   1   &   5 \\
 {}-     &   &   3   &   2   &   9 \\
 \hline
@@ -6113,7 +6113,7 @@ Work out $2898 \times 9$
 <div class='working'>
 
 $
-\begin{array}{cccccccccc}
+\begin{array}{cccccccccccccc}
    &   2    &   8   &   9   &   8 \\
 \times &    &       &       &   9 \\
 \hline

@@ -1482,4 +1482,122 @@ $39, \quad 52$
 </div>
 </div>
 </li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>E52F477B-FFCA-4102-95D0-AD1EFD89B90D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the size of the area left when a square side length $2 \ \text{metres}$ is removed from the rectangle below
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area Left} &= \text { Area of Rectangle} - \text { Area of Square}                          \\\\
+                  &= (\text {Length} \times \text {Width}) - (\text {Side} \times \text {Side})    \\\\
+                  &= (8 \text { m} \times 6 \text { m}) - (2 \text { m} \times 2 \text { m})       \\\\
+                  &= 48 \text { m}^2 - 4 \text { m}^2                                              \\\\
+                  &= 44 \text { m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44 \text { m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the biggest square that would fit completely inside the original rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Square of Side $6$ meters would fit completely inside the original rectangle
+
+$
+\begin{aligned}
+\text {Area of Square} &= \text {Side} \times \text {Side}               \\\\
+                       &= 6 \text { m} \times 6 \text { m}               \\\\
+                       &= 36 \text { m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \text { m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
 </ul>
