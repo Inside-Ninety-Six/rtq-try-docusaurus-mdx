@@ -1247,7 +1247,7 @@ $-17 \times - 0.6$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
             &        &   1       &   7 \\
 \times      &        &   0   .   &   6 \\
 \hline
@@ -1606,7 +1606,7 @@ Find the cost of twelve doughnuts.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
        &        &   1           &   2   &   0 \\
    \times       &   1   \ .     &   4   &   5 \\
 \hline
@@ -1643,7 +1643,7 @@ How much will each customer save?
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   1   &   7 \ .    &   4   &   0 \\
 {}- &       &   9 \ .    &   4   &   5 \\
 \hline
@@ -2488,7 +2488,7 @@ How many sweets does Sophie have in total?
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
        &         &   8   &   0 \\
        &   {}+   &   7   &   8 \\
        &   {}+   &   6   &   8 \\
@@ -2606,7 +2606,7 @@ How many seats are there in the concert hall?
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
             &   1         &   2         &   8 \\
             &   \times    &   3         &   5 \\
 \hline
@@ -3651,7 +3651,7 @@ Work out $4567 + 7654$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
                &         &    4    &    5    &    6    &    7 \\
 {}+            &         &    7    &    6    &    5    &    4 \\
 \hline
@@ -3698,7 +3698,7 @@ Work out $7654 - 4567$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
                &    7    &    6    &    5    &    4 \\
 {}-            &    4    &    5    &    6    &    7 \\
 \hline
@@ -3745,7 +3745,7 @@ Work out $653 \times 7$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
                &    6   &   5       &   3 \\
                &        &   \times  &   7 \\
 \hline
@@ -3897,7 +3897,7 @@ Which number is $100$ times smaller than $349$?
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
             &   3   &   4   &   9 \\
 {}-         &   1   &   0   &   0  \\
 \hline
@@ -3954,7 +3954,7 @@ $0.4 \quad 0.07 \quad 0.03$
 Remember to line up the decimal points.
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
      &    0 \ .    &    4    &    0 \\
      &    0 \ .    &    0    &    7 \\
 {}+  &    0 \ .    &    0    &    3 \\
@@ -4612,7 +4612,7 @@ Work out $2495 + 609$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   2   &   4   &   9   &   5 \\
 {}+ &       &   6   &   0   &   9 \\
 \hline
@@ -4659,7 +4659,7 @@ Work out $2495 - 609$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccccc}
     &   2   &   4   &   9   &   5 \\
 {}- &       &   6   &   0   &   9 \\
 \hline
@@ -4706,7 +4706,7 @@ Work out $7083 \times 6$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccccc}
                &    7    &   0   &   8   &   3 \\
 \times         &         &       &       &   6 \\
 \hline
@@ -4779,7 +4779,7 @@ Which number is $1000$ times bigger than $34.2$?
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
             &   1   &   0   &   0   &   0 \ .   &   0   &   0 \\
 {}-         &       &       &   3   &   4 \ .   &   2   &   5  \\
 \hline

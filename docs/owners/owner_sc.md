@@ -260,7 +260,7 @@ Add together $308, 86$ and $4444$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &       &   3   &   0   &   8 \\
     &       &       &   8   &   6 \\
 {}+ &   4   &   4   &   4   &   4 \\
@@ -354,7 +354,7 @@ Multiply $345$ by $67$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
     &                &    3    &    4    &   5 \\
     &    {}\times    &         &    6    &   7 \\
 \hline
@@ -669,7 +669,7 @@ Add together $369$ and $2468$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &       &   3   &   6   &   9 \\
 {}+ &   2   &   4   &   6   &   8 \\
 \hline
@@ -717,7 +717,7 @@ Subtract $364$ from $2046$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   2   &   0   &   4   &   6 \\
 {}- &       &   3   &   6   &   4 \\
 \hline
@@ -764,7 +764,7 @@ Multiply $193$ by $72$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
     &                &    1    &    9    &   3 \\
     &    {}\times    &         &    7    &   2 \\
 \hline
@@ -970,7 +970,7 @@ Add together $4867$ and $285$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
 4   &  8    &   6   &   7 \\
 {}+ &   2   &   8   &   5 \\
 \hline
@@ -1017,7 +1017,7 @@ Multiply $257$ by $37$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
          &    2    &    5    &   7 \\
 {}\times &         &    3    &   7 \\
 \hline
@@ -1289,7 +1289,7 @@ Subtract $2018$ from $8102$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   8   &   1   &   0   &   2 \\
 {}+ &   2   &   0   &   1   &   8 \\
 \hline
@@ -1336,7 +1336,7 @@ Multiply $2018$ by $17$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
     &        2       &    0    &    1    &   8 \\
     &    {}\times    &         &    1    &   7 \\
 \hline
@@ -2435,6 +2435,299 @@ Largest $= \dfrac {2} {5}$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>A3E2A396-36A1-43D4-9B0A-20559805248E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the three digit number below the last two digits have been hidden
+
+$6**$
+
+The three digit number is divisible by $3, 5$ and $7$. What is the number?
+
+$6………..$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $3, \ 5, \ 7 = 105$
+
+Multiplying the LCM by 6 to make it greater than 600 $= 105 \times 6 = 630
+
+$The last  two digits are $= 3 \ \text{and} \ 0$
+two digits$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{and} \ 0$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>3568C8D0-C035-4738-8BE0-B0BC876E29B4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy has to be in school by $8.35 \ \text{am}$. It takes him $25 \ \text{minutes}$ to get washed and dressed, $15 \ \text{minutes}$ to eat breakfast and then $18 \ \text{minutes}$ to walk to school.What is the latest time that he should get out of bed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time (He should get out of bed)}                                 &= \text{Time (School)} - (\text{Time (Washed and dressed)} + \text{Time (Eat)} + \text{Time (Walk)}) \\\\
+                                                                       &= 8{:}35 \text{am} - (25 \ \text{minutes} + 15 \ \text{minutes} + 18 \ \text{minutes}) \\\\
+                                                                       &= 8{:}35 \text{am} - 58 \ \text{minutes} \\\\
+                                                                       &= 7{:}37 \text{am}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8{:}37 \text{am}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>491C970A-4AAD-4C83-9430-AD0E5E6DF833</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to find $20.11 \times 1.1 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using our previous answer
+
+$
+\begin{aligned}
+2011 \times 11                        &= 22121 \\\\ 
+\dfrac {2011 \times 11} {1000}        &= \dfrac {22121} {1000} \\\\ 
+20.11 \times 1.1                      &= 22.121
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22.121$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>A64047D5-B54A-426C-A41A-39320D26F531</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to write down the answer to $2400 \times 90$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using our previous answer
+
+$
+\begin{aligned}
+24 \times 9                           &= 216 \\\\
+24 \times 9 \times 100 \times 10      &= 216 \times 100 \times 10 \\\\
+2400 \times 90                        &= 216000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$216000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>01AE1F27-CBF4-4C44-A8D4-6CD40AEAA699</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write these three decimals in order of size, starting with the $\text{largest}$ first.
+
+$0.92, 0.9, 0.909$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.9, \ 0.909, \ 0.92$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.9, \ 0.909, \ 0.92$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>A44E4F3A-9D7D-4F20-A66B-292B5CDE97B1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sam has $\pounds 3.85$ to spend. He buys a pencil for $38 \text{p}$ and a ruler for $59 \text{p}$. How much does he have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Money Sam left with}                                      &= \text{Total Money} - (\text{Cost (Pencil)} + \text{Cost (Ruler)}) \\\\
+                                                                &= \pounds 3.85 - (38 \text{p} + 59 \text{p}) \\\\
+                                                                &= \pounds 3.85 - 97 \text{p} \\\\
+                                                                &= \pounds 3.85 - \pounds dfrac {97} {100} \\\\
+                                                                &= \pounds 3.85 - \pounds 0.97 \\\\
+                                                                &= \pounds 2.88
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.88$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>

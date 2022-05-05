@@ -69,7 +69,7 @@ Work out $2.16$ times $8$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccc}
         &       &   2.  &  1   &   6 \\
 \times  &       &       &      &   8 \\
 \hline
@@ -413,7 +413,7 @@ Multiply $59$ by $7$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccc}
         &       &   5   &   9 \\
 \times  &       &       &   7 \\
 \hline
@@ -1033,7 +1033,7 @@ $289 + 134$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccc}
           &   2   &   8   &   9 \\
 {}+       &   1   &   3   &   4 \\
 \hline
@@ -1068,7 +1068,7 @@ $4716 - 1825$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccc}
     &   4   &   7   &   1   &   6 \\
 {}- &   1   &   8   &   2   &   5 \\
 \hline
@@ -1103,7 +1103,7 @@ $35 \times 29$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
         &       &   3   &     5 \\
 \times  &       &   2   &     9 \\
 \hline
@@ -1141,7 +1141,7 @@ $52.7 + 8.54 - 5.3$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   5   &   2 \ .   &   7   &  0   \\
 {}+ &       &   8 \ .   &   5   &  4  \\
 {}- &       &   5 \ .   &   3   &  0   \\
@@ -1218,7 +1218,7 @@ $571 \times 100$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
             &       &   5   &   7   &   1 \\
 \times      &       &   1   &   0   &   0 \\
 \hline
@@ -1257,7 +1257,7 @@ $3.61 \times 10$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
             &   3.  &   6   &     1 \\
 \times      &       &   1   &     0 \\
 \hline
@@ -1392,7 +1392,7 @@ Work out $694 \times 27$. Show all your working.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
         &       &        &   6  &  9   &   4 \\
 \times  &       &        &      &  2   &   7 \\
 \hline
@@ -1544,7 +1544,7 @@ $9602$ $9600$ $9700$ $960$ $96020$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   8   &     8    &    8    &   8 \\
 {}+ &       &     6    &    6    &   6 \\
 {}+ &       &          &    4    &   4  \\
@@ -1596,7 +1596,7 @@ $41967$ $42976$  $41976$  $41966$  $41956$
 <div class='working'>
 
 $
-\begin {array}{cccccccccccccc}
+\begin {array} {ccccc}
     &   &   &   5   &   4   &   3   &   2   &   1 \\
 {}- &   &   &   1   &   2   &   3   &   4   &   5 \\
 \hline
@@ -2798,7 +2798,7 @@ Work out $273 \times 23$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
             &       &   2      &   7     &     3     \\
 {}\times    &       &          &   2     &     3     \\
 \hline
@@ -3026,7 +3026,7 @@ Find the sum of $337$ and $765$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
         &   3   &   3   &   7 \\
     {}+ &   7   &   6   &   5 \\
     \hline
@@ -3073,7 +3073,7 @@ Find the difference between $9347$ and $2985$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
       &   9   &   3   &   4   &   7 \\
    {}-&   2   &   9   &   8   &   5 \\
     \hline

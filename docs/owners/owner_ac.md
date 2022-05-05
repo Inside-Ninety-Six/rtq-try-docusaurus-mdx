@@ -2032,7 +2032,7 @@ Calculate $37 \times 4 \times 5$
 $37 \times 4 \times 5 = 37 \times 20$
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
         &   3   &   7 \\
 \times  &   2   &   0 \\
 \hline
@@ -7684,7 +7684,7 @@ $462 + 391$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   4   &   6   &   2 \\
 {}+ &   3   &   9   &   1 \\
  \hline
@@ -7719,7 +7719,7 @@ $700 - 348$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   7   &   0   &   0 \\
 {}- &   3   &   4   &   8 \\
 \hline
@@ -7754,7 +7754,7 @@ $37 \times 6$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
         &   3   &   7 \\
 \times  &       &   6 \\
 \hline
@@ -7925,7 +7925,7 @@ $68 \times 24$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
 &           &   6   &   8 \\
 &   \times  &   2   &   4 \\
 \hline
@@ -8104,7 +8104,7 @@ $371 \times 20$
 Let's first multiply the numbers ignoring the zeroes.
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
         &   3   &   7   &   1 \\
 \times  &       &       &   2 \\
 \hline
@@ -12134,7 +12134,7 @@ $9728 + 675$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
       &     9     &     7     &     2     &     8 \\
 {}+   &           &     6     &     7     &     5 \\
 \hline
@@ -12169,7 +12169,7 @@ $1003 - 637$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
       &     1     &     0     &     0     &     3 \\
 {}-   &           &     6     &     3     &     7 \\
 \hline
@@ -12204,7 +12204,7 @@ $87 \times 93$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
 &           &   8   &   7 \\
 &\times     &   9   &   3 \\
 \hline

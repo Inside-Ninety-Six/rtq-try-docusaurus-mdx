@@ -2234,6 +2234,482 @@ $2333430$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
+<p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+taddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3078 + 256$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccc}
+        &  3 & 0 & 7  & 8 \\
+    {}+ &    & 2 & 5  & 6 \\
+    \hline
+        & 3 & 3 & 3   & 4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3334$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>F639A0C1-C422-4D98-A551-18AA9D92D8D3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsubraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3078 - 256$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{ccccc}
+        &  3 & 0 & 7  & 8 \\
+    {}- &    & 2 & 5  & 6 \\
+    \hline
+        & 2 & 8 &  2   & 2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2822$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>B4091545-C20A-4D37-9CEF-364C712C6AFF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$158 \times 23$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccc}
+        &  1   & 5  & 8   \\
+    {}- &      & 2  & 3   \\
+    \hline
+        & 4 &  6   & 4 \\
+       3 &  1  &   6    & 0 \\
+       \hline
+       3  &  5  &  2   &   4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3524$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>4B7CDE91-4C3F-4F86-89D2-B8D194C48EBA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the reading on the measuring cylinder
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1.3 \text{ litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.3 \text{ litres}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>95A2D77B-0B84-43C2-9DD0-E83FA201C390</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number is $\text{twelve less than eight thousand two hundred and seven}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+&= 8217 - 12 \\\\
+&= 8205
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8205$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>271BF307-1253-4B27-8D5E-6FCA57E19326</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the value of:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3 \times 7 + 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 3 \times 7 + 4 \\\\
+&= 21 + 4 \\\\
+&= 25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12 \div 6 \div 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 \div 6 \div 2 \\\\
+&= 2 \div 2 \\\\
+&= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15 - 4 \times 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15 - 4 \times 2 \\\\
+&= 15 - 8 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many edges does a cube have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>2F479FDA-0316-4767-B8AE-E8A9C49B54B0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of the following is the best estimate for the length of a bus?
+
+$0.2\ \text{km}$ 
+
+$2\ \text{m}$ 
+
+$20\ \text{cm}$ 
+
+$20 000\ \text{mm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.2 \text{ km}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.2 \text{ km}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
 <p>469D229E-728D-4AC5-9C0D-417EB0BBF6F7</p>
 </div>
 <div class='topics'>
@@ -2252,7 +2728,7 @@ Work out $813 \times 72$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
             &       &       8       & 1     & 3     \\
 {}\times    &       &               & 7     & 2     \\
 \hline
@@ -3710,7 +4186,7 @@ $125 \times 160$
 Let's first multiply the numbers ignoring the zeroes.
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccccc}
             &       &       1       & 2     & 5     \\
 {}\times    &       &               & 1     & 6     \\
 \hline
@@ -5893,7 +6369,7 @@ $12.31 + 1.75$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccc}
         &  1 & 2\ .  & 3 & 1\\
     
 {}+     &    & 1\ .  & 7 & 5 \\
@@ -5929,7 +6405,7 @@ $2.76 - 1.842$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
         &  1 & 2\ .  & 3 & 1\\
     
 {}+     &    & 1\ .  & 7 & 5 \\
@@ -6333,7 +6809,7 @@ $11.36 + 3.40$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
       &  1 &  1 \ . &  3 &  6 \\
  {}+  &    &  3 \ . &  4 & 0 \\
    
@@ -6369,7 +6845,7 @@ $3.54 - 2.34$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
        &  3 \ . &  5 &  4 \\
  {}+      &  2 \ . &  3 & 4 \\
    
@@ -6407,7 +6883,7 @@ $213 \times 17$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{ccccc}
             &       &       2       & 1     & 3     \\
 {}\times    &       &               & 1     & 7     \\
 \hline

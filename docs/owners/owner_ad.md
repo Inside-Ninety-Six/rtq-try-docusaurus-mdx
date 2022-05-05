@@ -825,7 +825,7 @@ E: $7$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   \red {7}   &   5   &   7 \\
 {}- &   2          &   8   &   3 \\
 \hline
@@ -948,7 +948,7 @@ E: $4$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   \red {8}   &   3   &   9 \\
 {}- &   2          &   6   &   1 \\
 \hline
@@ -2022,7 +2022,7 @@ Calculate $\bold{9\times28}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccc}
        &   2   &   8 \\
 \times &       &   9 \\
 \hline
@@ -5164,7 +5164,7 @@ $5784 + 419$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   5   &   7   &   8   &   4 \\
 {}+ &       &   4   &   1   &   9 \\
 \hline
@@ -5214,7 +5214,7 @@ $2605 - 832$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   2   &   6   &   0   &   5 \\
 {}- &       &   8   &   3   &   2 \\
 \hline
@@ -5264,7 +5264,7 @@ $927 × 7$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
        &   9   &   2        &   7 \\
        &       &   \times   &   7 \\
 \hline
@@ -5365,7 +5365,7 @@ $
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   3          &   \red {7}   &   5 \\
 {}+ &   \red {4}   &   8          &   7 \\
 \hline
@@ -6460,7 +6460,7 @@ $484 + 365$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   4   &   8   &   4 \\
 {}+ &   3   &   6   &   5 \\
 \hline
@@ -6510,7 +6510,7 @@ $7608 - 495$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   7   &   6   &   0   &   8 \\
 {}- &       &   4   &   9   &   5 \\
 \hline
@@ -6560,7 +6560,7 @@ $297 \times 8$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
        &   2   &   9        &   7 \\
        &       &   \times   &   8 \\
 \hline
@@ -7334,7 +7334,7 @@ Fill in the missing digits in this multiplication:
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
               &   3   &   \red {3}        &   \red {8} \\
               &       &   \times          &   7 \\
 \hline
@@ -7567,7 +7567,7 @@ $5924 + 3578$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   5   &   9   &   2   &   4 \\
 {}+ &   3   &   5   &   7   &   8 \\
 \hline
@@ -7615,7 +7615,7 @@ Subtract $248$ from $2396$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   2   &   3   &   9   &   6 \\
 {}- &       &   2   &   4   &   8 \\
 \hline
@@ -7663,7 +7663,7 @@ Multiply $57$ by $8$.
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
        &   5        &   7 \\
        &   \times   &   8 \\
 \hline
@@ -7714,7 +7714,7 @@ Calculate $2.7 - 0.47$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccc}
     &   2 \ .   &   7   &   0 \\
 {}- &   0 \ .   &   4   &   7 \\
 \hline
@@ -8368,7 +8368,7 @@ Work out $2567 + 824$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   2   &   5   &   6   &   7 \\
 {}+ &       &   8   &   2   &   4 \\
 \hline
@@ -8415,7 +8415,7 @@ Work out $8709 - 637$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
     &   8   &   7   &   0   &   9 \\
 {}- &       &   6   &   3   &   7 \\
 \hline
@@ -8462,7 +8462,7 @@ Work out $578 \times 4$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
+\begin{array}{cccccccc}
        &   5   &   7        &   8 \\
        &       &   \times   &   4 \\
 \hline
