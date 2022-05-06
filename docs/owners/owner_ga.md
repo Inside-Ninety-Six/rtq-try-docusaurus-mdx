@@ -1720,4 +1720,283 @@ $
 </div>
 </div>
 </li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tdate
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The day before yesterday my daughter was $10$ years old. Next year she will be $13$ years old. What is the date today?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Date of Birth is $31$ December,
+
+The Date today is $1$ January.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+The Date today is $1$ January.
+
+</div>
+</div>
+
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>7EEED2AD-4ACE-4231-9E6C-501375169A8F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$321 \times 57 = 18297$
+
+Use the answers to the multiplication above to answer the following questions:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$18297 \div 57$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+&= 18297 \ \div \ 57                                \\\\
+&= \dfrac {18297} {57}                              \\\\
+&= \dfrac {321 \times 57 } {57}                     \\\\
+&= \dfrac {321 \times \cancel {57}} {\cancel {57}}  \\\\
+&= 321
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$321$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$570 \times 3210$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+&= 570 \times 3210                            \\\\
+&= 57 \times 10 \times 321 \times 10          \\\\
+&= 57 \times 321 \times 100                   \\\\
+&= 321 \times 57 \times 100                   \\\\
+&= 18297 \times 100                           \\\\
+&= 1829700
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1829700$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$642 \times 114$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+&= 642 \times 114                           \\\\
+&= 321 \times 2 \times 57 \times 2          \\\\
+&= 321 \times 57 \times 4                   \\\\
+&= 18297 \times 4                           \\\\
+&= 73188
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$73188$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>18F0ED79-1C13-4B24-A57C-C53F88E71603</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which is greater $90 \%$ of $10 \%$ of $300$ or $80 \%$ of $20 \%$ of $200$? 
+
+You must show calculations to explain your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Calculation for $90 \%$ of $10 \%$ of $300$ ,
+
+$
+\begin{aligned} 
+&= 90 \% \text { of } 10 \% \text { of } 300                    \\\\
+&= 90 \% \times 10 \% \times 300                                \\\\
+&= \dfrac {90} {100} \times \dfrac {10} {100} \times 300        \\\\
+&= \dfrac {90 \times 10 \times 300} {100 \times 100}            \\\\
+&= \dfrac {900 \times 300} {100 \times 100}                     \\\\
+&= \dfrac {9 \times 100 \times 3 \times 100} {100 \times 100}   \\\\
+&= \dfrac {9 \times \cancel {100} \times 3 \times \cancel {100}} {\cancel {100} \times \cancel {100}}   \\\\
+&= 9 \times 3                                                   \\\\
+&= 27
+\end{aligned}
+$
+
+Calculation for $80 \%$ of $20 \%$ of $200$ ,
+
+$
+\begin{aligned} 
+&= 80 \% \text { of } 20 \% \text { of } 200                    \\\\
+&= 80 \% \times 20 \% \times 200                                \\\\
+&= \dfrac {80} {100} \times \dfrac {20} {100} \times 200        \\\\
+&= \dfrac {80 \times 20 \times 200} {100 \times 100}            \\\\
+&= \dfrac {1600 \times 200} {100 \times 100}                     \\\\
+&= \dfrac {16 \times 100 \times 2 \times 100} {100 \times 100}   \\\\
+&= \dfrac {16 \times \cancel {100} \times 2 \times \cancel {100}} {\cancel {100} \times \cancel {100}}   \\\\
+&= 16 \times 2                                                   \\\\
+&= 32
+\end{aligned}
+$
+
+From the above Calculations, its Observed that 32 > 27,
+
+Therefore, $80 \%$ of $20 \%$ of $200$ is greater then $90 \%$ of $10 \%$ of $300$ .
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80 \%$ of $20 \%$ of $200$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
 </ul>

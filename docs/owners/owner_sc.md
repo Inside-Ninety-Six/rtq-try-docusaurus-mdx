@@ -2296,10 +2296,9 @@ $
 &= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
 &= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
 &= \dfrac {\dfrac {4 + 5} {10}} {2} \\\\
-&= \dfrac {\dfrac {9} {10}} {2} \\\\
-&= \dfrac {9 \times 2} {10}\\\\
-&= \dfrac {18} {10} \\\\
-&= 1.8
+&= \dfrac {9} {10 \times 2} \\\\
+&= \dfrac {9} {20}\\\\
+&= 0.45
 \end{aligned}
 $
 
@@ -2308,7 +2307,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1.8$
+$0.45$
 
 </div>
 </div>
@@ -2643,6 +2642,121 @@ $216000$
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
+<p>6992287E-7743-47D8-A290-54F319C3580E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that
+
+$567 \div 27 = 21$
+
+Use this answer to find
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$567 \div 21 =$
+
+and
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+576 \div 27                                       &= 21 \\\\
+\dfrac {576} {27 \times 21}                       &= 21 \\\\
+576 \div 21                                       &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$56.7 \div 2.7 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+567 \div 27                                       &= 21 \\\\
+\dfrac {567 \times 10} {27 \times 10}             &= 21  \\\\
+56.7 \div 2.7                                     &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
 <p>01AE1F27-CBF4-4C44-A8D4-6CD40AEAA699</p>
 </div>
 <div class='topics'>
@@ -2867,6 +2981,155 @@ Octagon and Trapezium/Quadrilateral
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>28567DF7-C205-4EA9-ADD3-0DD66CC0BD8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to write down $2002 \times 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using our previous answer
+
+$
+\begin{aligned}
+2002 \times 10                                          &= 20020 \\\\\
+\dfrac {2002 \times 10} {2}                             &= \dfrac {20020} {2} \\\\
+\dfrac {2002 \times 2 \times 5} {2}                     &= \dfrac {10010 \times 2} {2} \\\\
+\dfrac {2002 \times \cancel{2} \times 5} {\cancel{2}}   &= \dfrac {10010 \times \cancel{2}} {\cancel{2}} \\\\
+2002 \times 5                                           &= 10010
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10010$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>CEEFE661-3F94-486A-860F-03203D78E68B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use these last two answers to write down $2002 \times 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using our previous two answer
+
+$
+\begin{aligned}
+&= 2002 \times 15 \\\\\
+&= 2002 \times (10 + 5) \\\\
+&= 2002 \times 10 +  2002 \times 5 \\\\
+&= 20020 + 10010 \\\\
+&= 30030
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30030$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>4A0F8EFB-C6AA-4D77-ABC9-4A70EF4C4367</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use your previous answer to write down $20.02 \times 1.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using our previous answer
+
+$
+\begin{aligned}
+2002 \times 15                                          &= 30030 \\\\\
+\dfrac {2002 \times 15} {100 \times 10}                 &= \dfrac {30030} {100 \times 10} \\\\
+20.20 \times 1.5                                        &= \dfrac {30030} {1000} \\\\
+20.20 \times 1.5                                        &= 30.03
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30.03$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
 </div>
 <div class='rag'>
 <p>rag_sc_pr</p>

@@ -3054,6 +3054,60 @@ $42 \ \text{coins}$
 <li>
 <div class='question_envelope rag_ac_pr question'>
 <div class='uuid'>
+<p>51170D23-A840-4FED-BD59-6DC695B27849</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A company makes bricks to export to builders. To ship them, they put the bricks into packing cases. The lengths of the sides of the bricks and the cases are shown below. All
+measurements are in cm.
+
+![missing image](/papers/missing_image.svg)
+
+What is the maximum number of bricks which can be fitted into the packing case?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Maximum number of blocks}         &= \dfrac{\text{Volume of case}}{\text{Volume of brick}} \\\\
+                                        &= \dfrac{200 \times 180 \times 120}{30 \times 20 \times 15} \\\\
+                                        &= \dfrac{5 \times 40 \times 30 \times 6 \times 20 \times 3 \times 2}{30 \times 20 \times 5 \times 3} \\\\
+                                        &= \dfrac{\cancel{5} \times 40 \times \cancel{30} \times 6 \times \cancel{20} \times \cancel{3} \times 2}{\cancel{30} \times \cancel{20} \times \cancel{5} \times \cancel{3}} \\\\
+                                        &= 40 \times 6 \times 2 \\\\
+\text{Maximum number of blocks}         &= 480
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$480$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ac_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ac_pr question'>
+<div class='uuid'>
 <p>4B61C938-79C7-44C1-871D-5818101388C0</p>
 </div>
 <div class='topics'>
