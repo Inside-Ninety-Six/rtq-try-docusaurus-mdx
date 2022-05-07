@@ -3406,6 +3406,229 @@ $\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\
 <li>
 <div class='question_envelope rag_sc_pr question'>
 <div class='uuid'>
+<p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Richard is $12$ years old.
+
+Adam is $\text{twice}$ as old as Richard.
+
+Will is $\dfrac{2}{3}$  of Adam’s age.
+        
+What is their total age?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total age}                       &= \text{Age (Richard) + \text{Age (Adam) + \text{Age (Will) \\\\
+                                       &= 12 + 2 \times 12 + \dfrac {2} {3} \times (2 \times 12) \\\\
+                                       &= 12 + 24 + \dfrac {2 \times 2 \times 12} {3} \\\\
+                                       &= 36 + \dfrac {4 \times 3 \times 4} {3} \\\\
+                                       &= 36 + \dfrac {16 \times \cancel{3}} {\cancel{3}} \\\\
+                                       &= 36 + 16 \\\\
+                                       &= 52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>5533A075-BAD7-4675-83E0-25352274D043</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+<li>
+tfraction
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a decimal between $75\%$ and $80\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {75\% + 80\%} {2} \\\\
+&= \dfrac {155\%} {2} \\\\
+&= 77.5\% \\\\
+&= \dfrac {77.5} {100} \\\\
+&= 0.775
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.775
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a fraction between $60\%$ and $70\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {60\% + 70\%} {2} \\\\
+&= \dfrac {130\%} {2} \\\\
+&= \dfrac {130} {100 \times 2} \\\\
+&= \dfrac {130} {200} \\\\
+&= \dfrac {130} {200} \\\\
+&= \dfrac {10 \times 13} {10 \times 20} \\\\
+&= \dfrac {\cancel{10} \times 13} {\cancel{10} \times 20} \\\\
+&= \dfrac {13} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {13} {20}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>83A92D5A-498D-4CED-902F-FCECE3962C78</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put these decimals in order, starting with the largest.
+
+$0.101, 0.011, 0.11$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.011, \ 0.101, \ 0.11$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.011, \ 0.101, \ 0.11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
 <p>1A84B2C9-4A73-42D5-8C02-943A1F327DCC</p>
 </div>
 <div class='topics'>
@@ -3461,6 +3684,602 @@ $
 
 $\text{Fraction of flag shaded}         &= \dfrac {1} {6} \\
 \text{Required rectangle to be shaded}  &= 15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the biggest number that divides exactly into $60, 72$ and $84$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Highest common factor of $60$, $72$ and $84 = 2 \times 2 \times 3 = 12$
+
+The biggest number that divides into $60$, $72$ and $84 = 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>314AC472-EE1E-42D7-A310-5BCAE66FD04A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the smallest number that $2, 3,$ and $8$ all divide into?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $2$, $3$ and $8 = 24$
+
+The smallest number that $2, 3,$ and $8$ all divide into is $= 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>1B109C85-CBF5-4A70-B087-BFE06D26F287</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find two numbers that have a difference of $5$ and add up to $19$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a - b                    &= 5 \\\\
+a + b                    &= 19
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Add the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a - b + a + b            &= 5 + 19 \\\\
+2a                       &= 24 \\\\
+a                        &= \dfrac {24} {2} \\\\
+a                        &= \dfrac {2 \times 12} {2} \\\\
+a                        &= \dfrac {\cancel{2} \times 12} {\cancel{2}} \\\\
+a                        &= 12
+\end{aligned}
+$
+
+Let's substitute the value of $a$ in one of the equations.
+
+$
+\begin{aligned} 
+a + b                    &= 19 \\\\
+12 + b                   &= 19 \\\\
+b                        &= 19 - 12 \\\\
+b                        &= 7
+\end{aligned}
+$
+
+The two numbers are $= 12 \ \text{and} \ 7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \ \text{and} \ 7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>6D06FFAF-73C4-4670-8ACC-CCB6B58F7035</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four lamp posts are in a straight line. The distance from each post to the next is $25 \ \text{m}$. What is the distance from the first post to the last?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Distance from first to last post}                 &= \text{Total post} \times \text{Distance of one post to other} \\\\\
+                                                        &= 4 \times 25 \text{m} \\\\\
+                                                        &= 100 \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>A8831995-8C02-4126-BDE2-144567EFC527</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\text{two}$ and $\text{thirty four hundredths}$ when it is written as a decimal?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2.34$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.34$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>4DAC2267-23FB-4819-9BFF-D6661D1E820C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\text{half of 999}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{half of 999} \\\\\
+&= \dfrac {999} {2} \\\\\
+&= 499.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$499.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>7D42A72B-3C61-447C-BB29-F28D7B583B43</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these numbers is NOT a multiple of $3$?
+
+$12\:\: 234\:\: 3456\:\: 45678\:\: 567890$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 &= 1 + 2 &= 3 &= {\text{multiple of}} \ 3 \\\\
+234 &= 2 + 2 + 4 &= 9 &= {\text{multiple of}} \ 3 \\\\
+3456 &= 3 + 4 + 5 + 6 &= 15 &= {\text{multiple of}} \ 3 \\\\
+45678 &= 4 + 5 + 6 + 7 + 8 &= 30 &= {\text{multiple of}} \ 3 \\\\
+567890 &= 5 + 6 + 7 + 8 + 9 &= 35 &\not = {\text{multiple of}} \ 3 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$567890$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>8A105B27-7161-49B8-9344-3AAE3778D055</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What does $2 \times 17 + 3 \times 17 + 5 \times 17 =$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin{aligned}
+&= 2 \times 17 + 3 \times 17 + 5 \times 17 \\\\
+&= 34 + 51 + 85 \\\\
+&= 170
+\end{aligned}
+
+</div>
+<div class='working'>
+
+Alternative Solution
+
+\begin{aligned}
+&= 2 \times 17 + 3 \times 17 + 5 \times 17 \\\\
+&= (2 + 3 + 5) \times 17 \\\\
+&= 10 \times 17 \\\\
+&= 170
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$119$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>54129CC4-C133-47C6-8EE6-B29248C827BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mary has $\text{three}$ brothers and $\text{four}$ sisters. If they, and Mary, all buy each other an Easter egg, how many eggs will be bought?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total member = 8
+
+$
+\begin{aligned}
+\text{Total easter egg required}        &= 7 \times 7 \\\\
+                                        &= 49
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$49$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>8B2CB059-508A-4AB4-BD70-951C18329CC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A transport company’s vans each carry a maximum load of $12$ tonnes. A firm needs to deliver $24$ crates each weighing $5\ \text{tonnes}$. How many vans are needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total vans needed}                &= \dfrac {\text{Total crates \times weight of 1 crate}} {\text{Maximum weight van can take}} \\\\
+                                        &= \dfrac {24 \times 5} {12} \\\\
+                                        &= \dfrac {2 \times 12 \times 5} {12} \\\\
+                                        &= \dfrac {2 \times \cancel{12} \times 5} {\cancel{12}} \\\\
+                                        &= 2 \times 5 \\\\
+                                        &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>CC7E5372-5CB7-4E8F-9082-1AE6E8B336FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference between the largest and smallest of these numbers
+
+$0.89\:\: 0.9\:\: 0.17\:\: 0.72\:\: 0.73$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Largest number $= 0.9$
+
+Smallest number $= 0.17$
+
+$
+\begin{aligned}
+\text{Difference}                       &= 0.9 - 0.17 \\\\
+                                        &= 0.73
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.73$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3.toml</p>
+</div>
+<div class='rag'>
+<p>rag_sc_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_sc_pr question'>
+<div class='uuid'>
+<p>A2CF61F6-EF23-4B0B-A909-D2286502CE42</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ball is dropped onto a hard surface and each time it bounces, it rebounds to one third of the height from which it fell. After the second bounce it rises $9 \ \text{cm}$. How high was it initially dropped from?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Height it was initially dropped from}                       &= 9 \text{cm} \times 3 \times 3 \\\\
+                                                                  &= 81 \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81 \text{cm}$
 
 </div>
 </div>

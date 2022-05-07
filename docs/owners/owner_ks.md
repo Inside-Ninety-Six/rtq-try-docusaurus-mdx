@@ -4927,6 +4927,48 @@ $54$
 <li>
 <div class='question_envelope rag_ks_pr question'>
 <div class='uuid'>
+<p>76EE240E-E3B0-4269-A3BB-7FF0D66152EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the three numbers in the list below which have a sum of $12$ and a product of $42$
+
+$2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2,3,7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2,3,7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
 <p>74E6193A-F4D2-4F44-ABE7-1859D3CD5AD9</p>
 </div>
 <div class='topics'>
@@ -4958,6 +5000,862 @@ $3.08,3.8,3.808,3.88$
 </div>
 </div>
 
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
+<p>3333F909-34F8-4849-86F8-FDA974248AC6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write a number in each box in order to make the calculations correct.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$23 \times \boxed{\phantom{11}} = 50 - 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+23 \times x                                     &= 50 -4 \\\\
+23 \times x                                     &= 46 \\\\
+x                                               &= \dfrac{46} {23} \\\\
+                                                &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$13 = \boxed{\phantom{11}} + (5 - 2^2)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$72 \div \boxed{\phantom{11}} = 17 - 5 + 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
+<p>5F9005A4-253A-4F6B-A77C-60B2BD7ABAE0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+       &         &   1   &   4  \ .  &   9   &    5 \\
+       &   {}+           &   8  \ .  &   4   &    5 \\
+\hline
+       &         &   2   &   3  \ .  &   4   &    0 \\
+\end{array}
+$
+
+$
+\begin{array}{cccccccccccccc}
+       &         &   4   &   0  \ .  &   0   &    0 \\
+       &   {}+   &   2   &   3  \ .  &   4   &    0 \\
+\hline
+       &         &   1   &   6  \ .  &   6   &    0 \\
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16.60$
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Paula was given $\pounds 40$ for her birthday.
+
+She used some of this money to buy a scarf for $\pounds 14.95$ and a hat for $\pounds 8.45$
+
+How much of her birthday money does she have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sarah has $6$ coins in her pocket, which come to a total of $\pounds 1.75$
+
+Which coins could Sarah have in her pocket?
+
+Give two possible answers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
+<p>EC76EE3E-B338-4BF5-A3C1-B664105007CF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Charlotte has the six number cards shown below.
+
+![missing image](/papers/missing_image.svg)
+
+The cards can be placed together to form a number.
+
+For example, using just $4$ cards, the smallest $4$-digit number which can be made is $3457$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using all six cards, what is the largest even number which can be made?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$987534$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$987534$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using any number of the cards, what is the number closest to $5000$ which can be made?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4978$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4978$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest $3$-digit multiple of $5$ which can be made?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the largest $4$-digit multiple of $4$ which can be made.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
+<p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The school concert starts at $2{:}45 \ \text{p.m}$.
+
+It lasts for $2 \ \text{hours}$ and $28 \ \text{minutes}$ and, in addition, there is an interval of $20 \ \text{minutes}$.
+
+At what time does the concert end?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5 : 33$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 : 33$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
+<p>CE3CCF3A-8056-438D-8058-4C8A604405AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Summer has correctly used her calculator to work out that
+
+$17 \times 538 = 9146$
+
+Without doing any long multiplication or division, use Summer’s calculation to work out:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$17 \times 540$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+17 \times 538                                           &= 9146 \\\\
+\text{in question we have}                              &= 17 \times 540 \\\\
+17 \times (538 + 2) \\\\\
+17 \times 538 + 17 \times 2 \\\\\
+9146 + 34 \\\\
+9180 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9180$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$27 \times 538$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$9146 \times 34$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
+<p>65A996BA-1ABC-470D-B822-F72E0A1706DD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tperimeter
+</li>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Shape $D$ is drawn on centimetre-squared paper below. 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the area of shape $D$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12 \text{cm ^ 2}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \text{cm ^ 2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of shape $D$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$17 \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17 \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Draw a rectangle which has the same area as shape $D$ on the centimetre-squared grid below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ks_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ks_pr question'>
+<div class='uuid'>
+<p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An apple, $2$ oranges and $3$ pears cost $\pounds 2.10$ altogether.
+An orange and a pear cost $64 \ \text{pence}$.
+
+How much more does an apple cost than an orange?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+x + 2y + 3z                                     &= 210 \\\\
+y + z                                           &= 64 \\\\
+\text{multiplying above quation by 3} \\\\
+3y + 3z                                         &= 192 \\\\
+\text{subtracting this from first equation} \\\\
+x - y                                           &= 210 - 192 \\\\
+                                                &= 18
+
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mike has $27$ vehicles to service at his garage.
+
+Some are cars ($4$ wheels) and the rest are motorcycles ($2$ wheels).
+
+Altogether, the $27$ vehicles have $78$ wheels.
+
+How many cars does Mike have to service?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1.toml</p>
 </div>

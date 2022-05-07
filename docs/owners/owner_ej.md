@@ -7830,6 +7830,47 @@ $103$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
+<p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Think of two integers that have a product of $18$ and a difference 
+that is the same as one of the two integers that you are thinking of. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3 \ \text{and} 6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{and} 6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
 <p>E79F071C-7363-457A-AB2E-0827A05F9BF1</p>
 </div>
 <div class='topics'>
@@ -7939,6 +7980,106 @@ $28$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in the missing digits to make this correct.
+
+%waffles%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the whole value $=a$
+$
+\begin{aligned}
+a \times 7  &=  896 \\\\ 
+a           &=  \dfrac {896} {7} \\\\
+a           &=  \dfrac {128 \times 7} {7} \\\\
+a           &=  \dfrac {128 \times \cancel{7}} {\cancel{7}} \\\\
+a           &=  128
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text{and} 8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sam thinks of a number. 
+If you double the number and add $6$ you get the same answer as multiplying it by $3$ and subtracting $3$.
+
+Find the number that Sam was thinking of. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+$
+2a + 6  &=  3a - 3 \\\\
+3a - 2a &=  6 + 3 \\\\
+a       &=  9 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
 </div>
@@ -8133,6 +8274,388 @@ $35 cm^2$
 <li>
 <div class='question_envelope rag_ej_pr question'>
 <div class='uuid'>
+<p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
+
+Note: the sides of the triangles are the same length as the sides of the hexagons.
+
+Find the fraction of the diagram that is shaded. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {2} {7}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {7}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>CB9E833C-477C-416F-9F7E-B57C7CF7ECEC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In Glasgow, the temperature is $-7 \degree \text{C}$ and in Exeter the temperature is $12$ degrees warmer. 
+
+What is the temperature in Exeter? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 + (-7) \\\\
+&= 5 \degree{C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \degree{C}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>C82E5C30-82DD-4D11-B4AF-0C2607D4E161</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference between $20 \%$ of $90$ and $90 \%$ of $20$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 20 \% \ \text{of} 90 \\\\
+&= \dfrac {20} {100} \times 90 \\\\
+&= \dfrac {20 \times 90} {100} \\\\
+&= \dfrac {2 \cancel{0} \times 9 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 2 \times 9 \\\\
+&= 18
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 90 \% \ \text{of} 20 \\\\
+&= \dfrac {90} {100} \times 20 \\\\
+&= \dfrac {90 \times 20} {100} \\\\
+&= \dfrac {9 \cancel{0} \times 2 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 9 \times 2 \\\\
+&= 18
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 18 - 18 \\\\
+&= 0 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>E8BEF82D-E970-4508-A623-9BC202200751</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jamie left school at $3:55 \ \text{pm}$ and arrived home $55 \ \text{minutes}$ later.
+
+At what time did Jamie get home? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4 {:} 50 \ \text{pm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 {:} 50 \ \text{pm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>A2AB9E52-5757-48BA-893F-644438CCA57D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Joey has the six number cards shown below
+
+$
+\huge {
+\boxed {1} 
+\quad \boxed {2} 
+\quad \boxed {3} 
+\quad \boxed {4}
+\quad \boxed {5}
+\quad \boxed {8}
+}
+$
+
+The number cards are to be placed next to each other to form different numbers.
+
+For example using three of the cards you could make two hundred and fifty one like this: 
+
+$
+\huge {
+\boxed {2} 
+\ \boxed {5} 
+\ \boxed {1}
+}
+$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest $4$-digit even number that can be made?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$854$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$854$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest two-digit prime number that can be made?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$11$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using $5$ cards, make a multiple of $3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12345$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12345$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Make a three-digit number that is a multiple of both $3$ and $5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$135$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
 </div>
 <div class='topics'>
@@ -8242,6 +8765,56 @@ $30 \degree$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ej_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ej_pr question'>
+<div class='uuid'>
+<p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four strips of paper are stuck on a table as shown. Each one is a rectangle that is $12 \ \text{cm}$ long and $2 \ \text{cm}$ wide.
+
+![missing image](/papers/missing_image.svg)
+
+What area of the table is covered? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total Area}  &=  12 \times 2 \time 4 - 2 \times 2 \times 4 \\\\
+                    &=  96 - 16 \\\\
+                    &=  80 \ \text{cm^2} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80 \ \text{cm^2}$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1.toml</p>
 </div>

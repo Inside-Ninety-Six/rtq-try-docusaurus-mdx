@@ -367,7 +367,7 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-ttrailnerror
+ttrialerror
 </li>
 </ul>
 </div>
@@ -417,7 +417,7 @@ $3 + (5 \times 2) + 3$
 <div class='topics'>
 <ul>
 <li>
-ttrailnerror
+ttrialerror
 </li>
 </ul>
 </div>
@@ -630,7 +630,7 @@ $\dfrac {4} {5}$
 tnumber
 </li>
 <li>
-tnoexplaination
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -852,7 +852,7 @@ $ 4 \text{ hours} \ 47 \text{ minutes}$
 tnumber
 </li>
 <li>
-tnoexplaination
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -1703,6 +1703,54 @@ $\pounds 78$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
+<p>A7936BDD-9D0B-4DE1-9D29-9396E4564A70</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many $\text{minutes}$ are there between $9.23\ \text{am}$ and $1.06\ \text{pm}$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=   9:23 \text{ am}  - 1:06 \text{ pm} \\\\
+&=   4 \text{ hours} \43 \text{ minutes} \\\\
+&=   4 \times 60   +  43 \\\\
+&=   240 + 43 \\\
+&=  283 \text{ minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$283 \text{ minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
 <p>37241372-32CF-4C98-A54E-BBD279C33AA8</p>
 </div>
 <div class='topics'>
@@ -1847,7 +1895,7 @@ $62 \degree$
 <div class='topics'>
 <ul>
 <li>
-tpermeter
+tperimeter
 </li>
 <li>
 tarea
@@ -2286,7 +2334,7 @@ $3334$
 <div class='topics'>
 <ul>
 <li>
-tsubraction
+tsubtraction
 </li>
 </ul>
 </div>
@@ -2710,6 +2758,397 @@ $0.2 \text{ km}$
 <li>
 <div class='question_envelope rag_np_pr question'>
 <div class='uuid'>
+<p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Suki saves $\pounds 12$ in January, $\pounds 18$ in February and $\pounds 5$ in March. 
+
+What is her mean (average) monthly saving? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Average}  &= \dfrac {12 + 18 + 5} {3} \\\\
+                &= \dfrac {35} {3} \\\\
+                &= 11.66 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11.66$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac{1}{2}$ of $\dfrac{4}{5}$ of $35$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+&= \dfrac {1} {2} \times \dfrac {4} {5} \times 35 \\\\
+&= \dfrac {1} {2} \times \dfrac {4} {5} \times 7 \times 5 \\\\
+&= \dfrac {1} {2} \times \dfrac {4} { \cancel {5} } \times 7 \times \cancel {5} \\\\
+&= \dfrac {1} {2} \times 28 \\\\
+&= \dfrac {1} {2} \times 14 \times 2 \\\\\
+&= \dfrac {1} {\cancel {2} } \times 14 \times \cancel {2} \\\\
+&= 14
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>554B3D2D-7D52-4B91-AC2E-5CBB5B5578F4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+todo
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the number from the following clues:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$81$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a whole number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is less than $100$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a square number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is one less than a multiple of $5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$16$ is a factor of this number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
+<p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $6\ \text{cm}$ longer than it is wide. Its perimeter is $32\ \text{cm}$. Find its area.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the wide $= a$
+
+As per the question length $= 6 + a$
+
+$
+\begin{aligned}
+ 2 \times a + 2 \times (6 + a)  &= 32 \\\\
+ 2a + 12 + 2a                   &= 32 \\\\
+ 4a                             &= 32 - 12 \\\\
+ a                              &= \dfrac {20} {4} \\\\
+ a                              &= \dfrac {5 \times 4} {4} \\\\
+ a                              &= \dfrac {5 \times \cancel {4} } {\cancel {4} } \\\\
+ a                              &= 5
+\end{aligned}
+$
+
+Now let's find the area 
+
+$
+\begin{aligned}
+&= 5 \times (6 + 5) \\\\
+&= 5 \times 11 \\\\
+&= 55 \text{ cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \text{ cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_pr question'>
+<div class='uuid'>
 <p>469D229E-728D-4AC5-9C0D-417EB0BBF6F7</p>
 </div>
 <div class='topics'>
@@ -3013,7 +3452,7 @@ tfactor
 tnumber
 </li>
 <li>
-tnoexplaination
+tnoexplanation
 </li>
 </ul>
 </div>

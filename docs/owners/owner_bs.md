@@ -260,7 +260,7 @@ $71685$
 <div class='topics'>
 <ul>
 <li>
-tdivison
+tdivision
 </li>
 </ul>
 </div>
@@ -905,7 +905,7 @@ $28.4 \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tdistancespeed
+tspeed
 </li>
 </ul>
 </div>
@@ -2306,6 +2306,7 @@ $660$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{array}{cccccccccccccc}
     &   3   &   5   &   4 \\
 {}- &       &   9   &   7 \\
@@ -2313,6 +2314,7 @@ $660$
     &   2   &   5   &   7 \\
 \hline
 \end{array}
+$
 
 </div>
 </div>
@@ -2777,6 +2779,1938 @@ $\pounds 8.3$
 
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>55A10623-F378-4E8A-9E0E-162217DDCF11</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ruth wants to buy three bracelets at $\pounds 1.29$ each and a birthday card for $\pounds 1.85$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much does this cost her altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Cost of bracelets = $\pounds 1.29$.
+
+cost of birthday card = $\pounds 1.85$.
+
+As per the question.
+
+$
+\begin{aligned}
+\text{total cost}   &=   3 \times{1.29} + 1.85 \\
+                    &=  3.87 + 1.85\\
+                    &=  \pounds 4.72
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.72$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She only has $\pounds 3.20$. How much does she need to borrow to buy these things?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+money she have = $\pounds3.20$
+
+As per question,
+
+$ 
+\begin{aligned}
+\text {money she needs}  = \text{total cost - existed money} \\
+                        &= 4.72 - 3.20 \\
+                        &= \pounds1.52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds1.52$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>242AC8B9-7333-4772-A4E2-A8579262210F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A prime number between $20$ and $30$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+A prime number between $20$ and $30$.
+
+$23$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A squared number between $30$ and $40$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+A squared number between $30$ and $40$
+
+$36$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A multiple of 17 between $50$ and $60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+A multiple of 17 between $50$ and $60$
+
+$51$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>219E449F-2516-48DE-B763-E1C74A1FC8E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in the following sequences? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+8   4    2   1  ______     ________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{\dfrac{1}{2}}} 
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  \\
+8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= \dfrac{1}{2} \\\\
+\text{Second missing number}       &= \dfrac{1}{4} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{2}, \dfrac{1}{4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+23   17   11   5   _________   _________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $-6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-6)}} 
+&&  \footnotesize{\maroonC{(-6)}}  
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}   
+&&  \footnotesize{\maroonC{(-6)}}  \\
+23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= -1 \\\\
+\text{Second missing number}       &= -7 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1, -7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eleanor is taking part in a triathlon. this starts with a swimming stage followed
+by a cycling stage and finishes with a running stage. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to complete this stage, at what time does she start the cycling stage.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question'
+
+$
+\begin{aligned}
+\text{Initial time} = 12:45 \\
+\text{time required} = 79 \text{minutes} \\
+\text{Time she starts cycling} = 14:04
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14:04$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If she starts the running stage at $4:38\,pm$ work out how long she took in minutes on the cycling stage.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Initial time} = 04:38 \\
+\text{Number of minutes spend cycling} = 154 \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$154 \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If she took 107 minutes on the running stage work out how long she took to complete the whole triathlon. Give your answer in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time spent on running} = 107 \text{minutes} \\
+\text{whole time spend} = 79 + 154 + 107 \\
+&=  340 \text{minutes} \\
+&=  5 \text{hr} \ \ 40 \text{minutes}
+$
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \text{hr} \ \ 40 \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2512EA6E-6A08-448C-BB2A-C8D9924A368E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a box of sweets there are $7$ toffees for every $12$ chocolates. If there are $72$ chocolates how many toffees are there? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+In a box of sweets there are $7$ toffees for every $12$ chocolates
+
+$
+\begin{aligned}
+\text{Let the toffees br 'x' for 72 chocolates} \\
+\text{then} \\
+& 12x   =   72\times 7 \\
+&   x   =   \dfrac{72\times 7}{12} \\\\
+&   x   =   \dfrac{\cancel{72} \ \ 6 \times 7}{\cancel{12}} \\\\
+&   x   =   42 \text{toffees}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \text{toffees}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>232F57C7-E301-4FFA-80DA-C7978576A982</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+David is $15$ stone $11$. Andrew is $275$ pounds. If there are $14$ pounds in $1$ stone what is the difference between their weights? Give your answer in pounds. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+David is $15$ stone $11$.
+
+$
+\begin{aligned}
+\text{difference between them} = 275 - 221 \\
+&   = \pounds 42
+\end{aligned}  
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 42$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>2085300E-35CB-4683-B8A1-2619BA04C321</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jennifer is assembling a wardrobe. The measurements for the 3 sections are given in different units. The first section is $30\,cm$ wide; the second section is $1.5\,m$ wide and the third section $150\,mm$ wide.How wide is whole wardrobe?Give your answer in cm. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+As per the question,
+
+measurement of first section is $30\,cm$
+
+measurement of second section is $150\,cm$
+
+measurement of third section is $15\,cm$
+
+$
+\begin{aligned}
+\text{Total width}  =   (30 + 150 + 15) \text{cm} \\\\
+&=  195 \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$195 \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>70495CDE-A694-44BF-9BDE-E42271978492</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Kevin gets paid $\pounds 500$ for each match he plays plus $\pounds 100$ for each goal he scores. In a seasons he plays 20 games and averages two goals per game.
+How much does he earn over the season?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question,
+
+amount per game = $\pounds 500$
+
+amount per goal = $\pounds 100$
+
+$
+\begin{aligned}
+\text{amount per 20 games}  =   20\times 500 \\
+&=  \pounds 10,000 \\\\
+\text{amount per 40 goals}  =   40\times 100 \\
+&=  \pounds 4,000 \\\\
+\text{total earning}    =   \pounds 14,000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14,000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>69A4F37D-67F6-4431-A926-35B71140C637</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Helen spends half her money on a dress. She then spends one-third of what is left on shoes.   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If she started with $\pounds 120$ how much does she have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+fraction of money spend on dress = $\dfrac{1}{2}$.
+
+fraction of money spend on shoes = $\dfrac{1}{6}$.
+
+$
+\begin{aligned}
+\text{Initial amount}   =   \dfrac{1}{2} \\
+\text{fraction of amount spent} =   \dfrac{1}{2} = \dfrac{1}{6} \\\\
+&=  \dfrac{\cancel{4} \ 2}{\cancel{6} \ 3} \\\\
+&=  \dfrac{2}{3} \\\\
+\text{Amount left}  =   120 - 60 - 20 \\
+&=  40 \pounds
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \pounds$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is this as a fraction of what she started with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction of Amount left} = 1 - \dfrac{2}{3} \\\\
+&=  \dfrac{1}{3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{3}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>93360AA4-2B9F-4C55-BC75-2CD78B9FD6F2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The base of Sarah's fish tank is $60\,cm$ long and $20\,cm$ wide. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the base?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Length of base =    {60} cm,
+
+width of base =     {20} cm,
+
+$
+\begin{aligned}
+\text{Area of base} = \text{length}\times\text{width} \\
+&=  60\times20 \\
+&=  1200 \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1200 \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the height of the fish tank is $30\,cm$ what is the maximum volume of water it could hold?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+height of tank = $30$ cm,
+
+$
+\begin{aligned}
+\text{Max volume of tank} = \text{length}\times\text{width}\times{height} \\
+&=  60\times20\times30 \\
+&   36000 \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36000 \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sarah only has $24\,litres$ of water. How deep can she fill the tank? (Each litre of water occupies $1000\,cm^3$)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Let the height be 'x' for 24 litres} \\
+&   36x =   30\times24 \\
+&   x   =   \dfrac{30\times24}{36} \\\\
+&   x   =   \dfrac{\cancel{30} \ 5\times\cancel{24} \ 4}{\cancel{36} \ \cancel{6}} \\\\
+&   x   =   20\text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%20\text{cm}^2%
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>BFFF5136-E83F-4F59-9134-E57C8DF43C60</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the following showing your working out for each one.
+
+Simplify your answer where possible. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {6} {7} \times \dfrac {5} {9}$   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac {6} {7} \times \dfrac {5} {9} \\\\
+&=  \dfrac {30}{63} \\\\
+&=  \dfrac {\cancel{30} \ \ 10}{\cancel{63} \ \ 21} \\\\
+&=  \dfrac {10}{21}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {10}{21}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3\dfrac {2} {5} + 2\dfrac {3} {4}$    
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  3\dfrac {2} {5} + 2\dfrac {3} {4} \\\\
+&=  \dfrac {17} {5} + \dfrac {11} {4} \\\\
+&=  \dfrac {17\times4+11\times5}{20} \\\\
+&=  \dfrac {123}{20}
+\end{aligned}  
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {123}{20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1\dfrac {2} {3} \div \dfrac {10} {21}$   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  1\dfrac {2} {3} \div \dfrac {10} {21} \\\\
+&=  \dfrac {5} {3} \div \dfrac {10} {21} \\\\
+&=  \dfrac {\cancel5} {\cancel3} \times \dfrac {\cancel{21} \ \ 7} {\cancel{10} \ \ 2} \\\\
+&=  \dfrac {7}{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7}{2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>C5BEA94E-1A7E-437A-B7E1-A81049B5F92C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Verity thinks of a number. She multiplies it by 7 then adds 8. If the resulting number did she think of in the first place? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Assume a number be = x} \\
+\text{then} \\
+&  7x + 8 = 71 \\
+&  7x = 71 - 8 \\
+&  7x = 63 \\
+&  \boxed{x = 9}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D9347C26-F870-4B64-A4DA-BD4DEBB0941E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Multiply $6.4$ by $2.7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac{6.24}{2.7} \\\\
+&=  \dfrac{\cancel{6.24} \ \ 2.37}{\cancel{2.7}} \\\\
+&=  \boxed{2.73}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.73$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>714A3922-27FE-4977-8C4F-8B64886AF8C2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**A triangle has area** *$24cm^2$* . It's base is $6\,cm$.What is its height?   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Area of triangle = $24cm^2$
+
+base of triangle = $6cm$
+
+$
+\begin{aligned}
+\text{Area} = \dfrac{1}{2} \times breath \times height \\\\
+&   24 = \dfrac{1}{2} \times 6 \times x \\\\
+&   x =  \dfrac{24\times 2}{6} \\\\
+&   x =  \dfrac{\cancel{24} \ \ 4 \times 2}{6} \\\\
+&   x = 8cm
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8cm$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>17EB6AE3-FD45-41A0-9FF9-AF38640101B5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tarea
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds. The remaining area, shown in grey in the picture below, is covered in grass.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of one flower-bed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Length of garden = $20$ m.
+
+breath of garden = $12$ m.
+
+Base of garden = $12$ m.
+
+Height of garden = $12$ m.
+
+$
+\text{Area of flower-bed} = \dfrac{1}{2} \times 3 \times 6 \\\\
+&=  9\text{cm}^2
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9\text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the whole garden?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The garden is in the shape of rectangle.then,
+
+$\text{Area} = \text{length} \times \text{width}$
+
+$
+&=  20\times12 \\
+&=  240 \text{m}^2
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$240 \text{m}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the grass?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>42B172FC-BBD5-4557-9351-313D4B254286</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the answers to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$241 \times  7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+           &       &       2       & 4     & 1     \\
+{}\times    &       &               &      & 7     \\
+\hline
+            &  1    &       6       & 7     & 8     \\
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1678$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$39 \times 16$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+           &       &              & 3     & 9     \\
+{}\times    &       &              & 1     & 6     \\
+\hline
+            &      &       2       & 3     & 4     \\
+           &      &       3       & 9     & 0     \\
+\hline
+          &       &       6       & 2     & 4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$624$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>096AA73E-3271-49CC-97D7-2319FEA61B14</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the answers to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$9642 \div  3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question,
+
+$
+\begin{array}{cccccccccccccc}
+&= 9642 \div  3 \\\\
+&= \dfrac{9642}{3} \\\\
+&= \dfrac{\cancel{9642} \ \ 3214}{\cancel3} \\\\
+&= 3214
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3214$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$512 \div  16$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+&=512 \div  16 \\\\
+&= \dfrac{512}{16} \\\\
+&= \dfrac{\cancel{512} \ \ 32}{\cancel{16}} \\\\
+&= 32
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>E909E88A-3D58-42B1-A05B-AA2C4278F1EB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the answers to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5412  + 6948$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   5   &   4   &   1   &   2 \\
+{}+ &   6   &   9   &   4   &   8 \\
+\hline
+ 1  &   2   &   3   &   6   &   0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12360$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5021 - 3879$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   5   &   0   &   2   &   1 \\
+{}- &   3   &   8   &   7   &   9 \\
+\hline
+    &   1   &   1   &   4   &   2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1142$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>D49D9EA7-E52B-4221-A409-AFE1EB8E46AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the answers to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 \times 3 - 10 + 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS
+
+$
+\begin{array}{cccccccccccccc}
+&= 8 \times 3 - 10 + 6 \\
+&= 20
+$
+\end{array}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$72 \div 9 \times 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS
+
+$
+\begin{array}{cccccccccccccc}
+&= 72 \div 9 \times 7 \\\\
+&= \dfrac{72}{9} \times{7} \\\\
+&= \dfrac{\cancel{504} \ \ 56}{\cancel9} \\\\
+&= 56
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1.toml</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>

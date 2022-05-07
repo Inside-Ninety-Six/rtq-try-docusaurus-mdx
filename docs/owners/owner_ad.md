@@ -3649,6 +3649,299 @@ $9$
 <li>
 <div class='question_envelope rag_ad_pr question'>
 <div class='uuid'>
+<p>C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number of insects in a colony doubles each week. If there were $100$ insects in the colony at the start of the first week,
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+how many would there be after $6$ weeks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\end{aligned}
+\text{Inserts after six weeks} &= 2 \times 6 \times 100 \\\\
+                               &= 12 \times 100 \\\\
+                               &= 1200
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1200$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+After how many weeks would there first be more than $100000$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of weeks $=n$
+
+As per the question,
+
+$
+\end{aligned}
+2 ^ n \times 100 &= 100000 \\\\
+2 ^ n            &= \dfrac {100000} {100} \\\\
+2 ^ n            &= \dfrac {1000 \cancel{0} \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+2 ^ n            &= 1000
+\end{aligned}
+$
+
+Since $2 ^ 9 = 512$
+
+And $2 ^ 10 = 1024$
+
+Hence $n = 10$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>2BE1B352-38EE-45ED-B07A-12B3ABD5532C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%waffles%
+
+Starting with the number $6$ the operation $\spadesuit \ 3$ is applied followed by the operation $\spadesuit \ 1$ to give a final answer of $1$, as in this example below:
+
+$6 \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = 1$
+
+Using the same operation for the diamond and triangle, find the missing numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15 \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15 \div 3 - 1 \\\\
+&= 5 - 1 \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+${?} \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing term $= a$
+
+$
+\begin{aligned}
+a \div 3 - 1 &= 8 \\\\
+a \div 3     &= 8 + 1 \\\\
+a \div 3     &= 9 \\\\
+a            &= 9 \times 3 \\\\
+a            &= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>49F70149-6E7A-4A5E-9D2E-9FBDD68F2349</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John came home from his vacation at his grandmother's with $5$ books. 
+While he was away he bought $2$ books at the bookshop and got $1$ book as a present from his grandmother. 
+During his stay at his grandmother's, he also gave his cousin $4$ books that he had finished.
+How many books did he take with him when he left for his holiday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of books be $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 + 1 - 4 + a &= 5 \\\\
+- 1 + a       &= 5 \\\\
+a             &= 5 + 1 \\\\
+a             &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
 <p>A665B0B4-EBC8-4304-BDFA-28CF12D417AD</p>
 </div>
 <div class='topics'>
@@ -3798,6 +4091,283 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 <div class='answer'>
 
 TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>12BD4A22-072D-4543-95F1-81147B89584D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+At noon the temperature is $3$ degrees Celsius and it rises at a steady $1.5$ degrees per hour throughout the afternoon.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What will the temperature be at $1500 \ \text{hrs}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
+                               &= 3 + 4.5 \\\\
+                               &= 7.5 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.5 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+From $1800 \ \text{hrs}$ the temperature begins to fall at a steady rate so that by midnight it is $-3$ degrees and continues to 
+fall at this same rate through the rest of the night.
+
+What will the temperature be by $0400 \ \text{hrs}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
+                               &= 7.5 + 4.5 - 30 \\\\
+                               &= 12 - 30 \\\\
+                               &= - 18 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 18 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>0B2DDF0F-855E-489C-A9C7-EF1107955CE1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Yesterday was one of those days. Not only did my watch break at $10.24 \ \text{a.m}$. but when I shook it the 
+watch started going backwards at the correct rate. What is the real time if my watch shows:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10.10 \ \text{a.m.}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Real time} &= 10{:}24 \ \text{a.m} + 14 \\\\
+                 &= 10{:}38 \ \text{a.m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10{:}38 \ \text{a.m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$9.43 \ \text{a.m.}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Real time} &= 10{:}24 \ \text{a.m} + 41 \\\\
+                 &= 11{:}05 \ \text{a.m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11{:}05 \ \text{a.m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This mystery number has $4$ digits.
+
+Every digit is an odd number.
+
+None of the digits is a $9$. Every digit in the number is different.
+
+The smallest digit is in the thousands place.
+
+The greatest digit is in the ones place.
+
+This describes two possible numbers. The mystery number is the greater of those two numbers. What is the mystery number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1537$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1537$
 
 </div>
 </div>
@@ -4125,6 +4695,173 @@ $28$
 </div>
 </div>
 
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>CA23ED80-3421-4BAC-BBB7-618D72B3F32C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sam thinks of a number, multiplies it by $2$ and then adds $11$. The answer he gets is $29$. What number did he think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 2 + 11 &= 29 \\\\
+a \times 2      &= 29 - 11 \\\\
+a \times 2      &= 18 \\\\
+a               &= \dfrac {18} {2} \\\\
+a               &= \dfrac {9 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Julia thinks of a number, multiplies it by $5$, adds $11$ and then divides it by $2$. She gets the answer $28$. 
+What number did she think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a \times 5 + 11) \div 2 &= 28 \\\\
+a \times 5 + 11          &= 28 \times 2 \\\\
+a \times 5 + 11          &= 56 \\\\
+a \times 5               &= 56 - 11 \\\\
+a \times 5               &= 45 \\\\
+a                        &= \dfrac {45} {5} \\\\
+a                        &= \dfrac {9 \times 5} {5} \\\\
+a                        &= \dfrac {9 \times \cancel {5}} {\cancel {5}} \\\\
+a                        &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sam and Julia find there is one number for which, if they both start from that number and follow their own rules, they get the same answer. What is the number they both start with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
+(2 a + 11) \times 2 &= 5 a + 11 \\\\
+4 a + 22            &= 5 a + 11 \\\\
+4 a - 5 a           &= 11 - 22 \\\\
+- a                 &= - 11 \\\\
+\cancel {-} a       &= \cancel {-} 11 \\\\
+a                   &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2.toml</p>
 </div>
@@ -8132,6 +8869,64 @@ $
 <div class='answer'>
 
 $\dfrac {4} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_ad_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ad_pr question'>
+<div class='uuid'>
+<p>C535E8F6-43D7-44D2-B14D-8708D1AE1BC8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Joanna gets $\pounds 5.00$ pocket money each week and 
+her younger sister, Amy, gets $\pounds 3.50$ each week. 
+After $5$ weeks, Joanna saved all her money, but Amy 
+spent $75 \text{p}$ a week on stickers. 
+
+How much more does Joanna now have compared to Amy? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\pounds 1 = 100 \text{p}$
+
+$
+\begin{aligned}
+&= 5 \times \pounds 5 - (\pounds 3.50 \times 5 - 75 \text{p}) \\\\
+&= 5 \times \pounds 5 - (\pounds 17.5 - 75 \text{p}) \\\\
+&= \pounds 25 - (17.5 \times 100 \text{p} - 75 \text{p}) \\\\
+&= \pounds 25 - (1750 \text{p} - 75 \text{p}) \\\\
+&= \pounds 25 - 1675 \text{p} \\\\
+&= \pounds 25 - \pounds \dfrac {1675} {100} \\\\
+&= \pounds 25 - \pounds 16.75 \\\\
+&= \pounds 8.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.25$
 
 </div>
 </div>
