@@ -1405,6 +1405,52 @@ $86,014$
 <li>
 <div class='question_envelope rag_np_g1 question'>
 <div class='uuid'>
+<p>237A2594-E539-4227-8976-A91F96C1B86B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Evaluate $\dfrac {3} {4} \times \dfrac {5} {7}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} \times \dfrac {5} {7} \\\\
+&= \dfrac {3 \times 5} {4 \times 7} \\\\
+&= \dfrac {15} {28}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {15} {28}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4.toml</p>
+</div>
+<div class='rag'>
+<p>rag_np_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_np_g1 question'>
+<div class='uuid'>
 <p>78D12F78-FABE-4128-A430-A9094329C30F</p>
 </div>
 <div class='topics'>

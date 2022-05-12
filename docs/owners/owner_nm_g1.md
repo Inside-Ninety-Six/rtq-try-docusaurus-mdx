@@ -7102,6 +7102,50 @@ $\pounds 4.15$
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
+<p>CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The letter "e" appears $\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}$ times in this sentence.
+
+Which of the following goes in the gap above?
+
+Seven, eight, nine, ten, eleven, twelve or thirteen
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {ten}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {ten}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
 <p>7002E449-EEBA-49EF-A1BD-DA0806D4924B</p>
 </div>
 <div class='topics'>
@@ -7140,6 +7184,179 @@ $33.33$
 </div>
 </div>
 
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>2233EE67-0456-49F5-B1A4-331DDBD7F697</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Theo thinks of a number and finds out  that three quarters of it is $24$.
+
+What was the number he first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
+\dfrac {3} {4} \times a        &= 24 \\\\
+\dfrac {3a} {4}                &= 24 \\\\
+a                              &= 24 \times \dfrac {4} {3} \\\\
+a                              &= \dfrac{24 \times 4} {3} \\\\
+a                              &= \dfrac{8 \times 3 \times 4} {3} \\\\
+a                              &= \dfrac{8 \times \cancel {3} \times 4} {\cancel {3}} \\\\
+a                              &= 8 \times 4 \\\\
+a                              &= 32
+\end{aligned}
+$
+
+Theo was thinking of $32$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>A581D7B4-0D25-4FD6-8005-FCECDBB5610D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdecimal
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $0.32$ as a fraction? Give your answer in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.32 \\\\
+&= \dfrac {32} {100} \\\\
+&= \dfrac {16 \times 2} {25 \times 2} \\\\
+&= \dfrac {16 \times \cancel {2}} {25 \times \cancel {2}} \\\\
+&= \dfrac {16} {25}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {16} {25}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is eighteen fortieths as a decimal?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {18} {40} \\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
 </div>
@@ -7200,6 +7417,56 @@ $480$
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
+<p>023389AE-3402-4C39-A59D-560327B4A49B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One quire of paper is equal to $24$ sheets.
+One ream is equal to $20$ quires.
+How many sheets are there in $2$ ream?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Number of Sheets in two ream}    &= 2 \times 20 \times 24 \\\\
+                                        &= 40 \times 24 \\\\
+                                        &= 960
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$960$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
 <p>329E7FE5-9B8D-4D16-8082-F798504B6844</p>
 </div>
 <div class='topics'>
@@ -7230,6 +7497,289 @@ $
 <div class='answer'>
 
 $0.06$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>7F97A473-BC26-4166-978E-424582EA9335</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many centimetres are there in $1.4 \ \text{metres}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1.4 \ \text {metres} \\\\
+&= 1.4 \times 100 \ \text {centimetres} \\\\
+&= 140 \ \text {centimetres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140 \ \text {centimetres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many millimetres are there in $2.3  \ \text{kilometres}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2.3 \ \text {kilometres} \\\\
+&= 2.3 \times 1000000 \ \text {millimetres} \\\\
+&= 2300000 \ \text {millimetres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2300000 \ \text {millilitres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>437ABB0F-8D76-4639-A59E-6C56A371CF3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three prime numbers multiply together to get $110$. What are they?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 2 \times 5 \times 11 \\\\
+&= 10 \times 11 \\\\
+&= 110
+\end {aligned}
+$
+
+Three prime numbers that multiply together to get $110$ are $2, 5, 11$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, 5, 11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>1C0336ED-FF75-46F7-A592-23696B697EF3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amrit, Brenda and Clare share $13$ sweets. Amrit gets three times as many as Brenda, and Brenda get three times as many as Clare. How many do they each get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of sweets Clare get $= a$.
+
+As per the question,
+
+Number of sweets Brenda get $= 3a$.
+
+Number of sweets Amrit get $= 9a$.
+
+Total no. of sweets $= 13$
+
+$
+\begin{aligned}
+a + 3a + 9a     &= 13 \\\\
+4a + 9a         &= 13 \\\\
+13a             &= 13 \\\\
+a               &= \dfrac {13} {13} \\\\
+a               &= \dfrac {\cancel {13}} {\cancel {13}} \\\\
+a               &= 1
+\end{aligned}
+$
+
+Clare gets $1$ sweet.
+
+Brenda gets $3 \times 1 = 3$ sweets.
+
+Amrit gets $9 \times 1 = 9$ sweets.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+<div class='answer'>
+
+$3$
+
+</div>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>395B7BEF-3DD7-44D2-946A-7CA43359808F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gina finished her homework at $8{:}24 \ \text{pm}$ having started at $6{:}52 \ \text{pm}$.
+How many minutes did she spend on it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{She spend}              &= 8{:}24 - 6{:}52 \\\\
+                              &= 1 \ \text{hour} \ 32 \ \text{minutes}   \\\\
+                              &= 1 \times 60 + 32  \ \text{minutes} \\\\
+                              &= 60 + 32 \\\\
+                              &= 92 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$92 \ \text{minutes}$
 
 </div>
 </div>
@@ -7299,6 +7849,111 @@ $80 \ \text {cm} ^2$
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
+<p>E5D37E54-20E2-4DB6-83F2-B10511CE4323</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jaishan notices that if he squares two numbers and find the difference  of his answer he gets the same result as multiplying the sum and the difference of the two number.
+
+For example, if he chooses $9$ and $3$:   
+
+$9 ^ {2} - 3 ^ {2} = 81 - 9 = 72$ and 
+
+$(9 + 3) \times (9-3) = 12 \times 6 = 72$
+
+Show that this works with the number $6$ and $2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First find the difference of the squares of both numbers.
+
+$
+\begin{aligned}
+&= 6 ^ 2 - 2 ^ 2 \\\\
+&= 36 - 4 \\\\
+&= 32
+\end{aligned}
+$
+
+Now find the product of sum and the difference of the both numbers.
+
+$
+\begin{aligned}
+&= (6 + 2) \times (6 - 2) \\\\
+&= 8 \times 4 \\\\
+&= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jaishan uses this to find $83 \times 83 - 17 \times 17$ **WITHOUT** using long multiplication.
+How did he do it and what is the answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know,
+
+$
+\begin{aligned}
+&= 83 ^ 2 - 17 ^ 2 \\\\
+&= (83 + 17) \times (83 - 17) \\\\
+&= 100 \times 56 \\\\
+&= 5600
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5600$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
 <p>EC09307C-A0EE-4A9B-A081-3D90ED7BFCA0</p>
 </div>
 <div class='topics'>
@@ -7331,6 +7986,362 @@ $
 <div class='answer'>
 
 $478$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>5583CF32-08CB-4315-9AF6-9E18FBD6DE18</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eve bought $4$ pencils and $5$ crayons.
+Each pencil cost $22 \text{p}$.
+She paid with a $\pounds 2$ coin and received $32 \text{p}$ change.
+How much did each crayon cost? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Cost of four pencils}    &= 22 \times 4 \ \text {p} \\\\
+                                &= 88 \ \text {p} \\\\
+\text {Cost of $5$ crayons}     &= \pounds 2 - (32 \ \text {p} + 88 \ \text {p}) \\\\
+                                &= 2 \times 100 \ \text {p} - 120 \ \text {p} \\\\
+                                &= 200 - 120 \\\\
+                                &= 80 \ \text {p} \\\\
+\text {Cost of a crayon}        &= \dfrac {80} {5} \\\\
+                                &= \dfrac {16 \times 5} {5} \\\\
+                                &= \dfrac {16 \times \cancel {5}} {\cancel {5}} \\\\
+                                &= 16 \ \text {p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \ \text {p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>8200185D-4BE4-42B3-AAAD-686D2A3D5E16</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in digits the number two million, twenty thousand and twenty. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2020020$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2020020$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>5944BAB9-F811-4821-A822-19421386ED7E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many grams are there in $0.0025 \ \text{kilograms}$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.0025 \ \text {kilograms} \\\\
+&= 0.0025 \times 1000 \ \text {grams} \\\\
+&= 2.5 \ \text {grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.5 \ \text {grams}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>3C35E025-3712-4F87-95B5-ACF37CED321C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $4 \dfrac{1}{2} - 1 \dfrac{3}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 \dfrac {1} {2} - 1 \dfrac {3} {4} \\\\
+&= \dfrac {9} {2} - \dfrac {7} {4} \\\\
+&= \dfrac {9 \times 2} {2 \times 2} - \dfrac {7} {4} \\\\
+&= \dfrac {18} {4} - \dfrac {7} {4} \\\\
+&= \dfrac {18 - 7} {4} \\\\
+&= \dfrac {11} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>17493FB2-C20B-436C-BAB0-DB85EAA91408</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alana has to take $10 \ \text{millilitres}$ of medicine three times a day.
+How long would a $180 \ \text{millilitre}$ bottle last her? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Amount of medicine in a day}     &= 10 \times 3 \\\\
+                                        &= 30 \ \text {millilitres} \\\\
+\text {The bottle would last}           &= \dfrac {180} {30} \\\\
+                                        &= \dfrac {6 \times 30} {30} \\\\
+                                        &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
+                                        &= 6
+\end{aligned}
+$
+
+The medicine will last for $6$ days.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>A55AF66D-61BF-46A3-B8DA-C14286D8E6CF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tomasc adds the same number to $23$ and to $8$ so that the first is then double the second. What was the number he used?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+$
+\begin{aligned}
+23 + a &= 2 \times (8 + a) \\\\
+23 + a &= 16 + 2a \\\\
+2a- a  &= 23 - 16 \\\\
+a      &= 7
+\end{aligned}
+$
+
+The number is $7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>5628A8F8-B6F9-4B5F-A53D-63CCA2DEEBAC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My father was $31$ on my $8 \text{th}$ birthday.
+How old will he be  on my $30 \text{th}$ birthday? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {My father's age on my 30th birthday}  &= 30 + (31 - 8) \\\\
+                                             &= 30 + 23 \\\\
+                                             &= 53
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$53$
 
 </div>
 </div>
@@ -7458,6 +8469,128 @@ $90$
 <li>
 <div class='question_envelope rag_nm_g1 question'>
 <div class='uuid'>
+<p>82854C40-B614-4CD0-A56D-9ADB8E4EDAD8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the $30 \text{th}$ term of this sequence.
+
+$6, 10, 14, 18, \ldots$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }
+&&  \footnotesize {\maroonC {(+4)} }  \\
+6, && 10 , && 14 , && 18 , && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}    &= 18 + 4 \\\\
+                      &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>49B435BA-0A4E-44F7-ACD3-758C97042BC8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Morose's team has lost $3$ times as many matches as they have won.
+
+They have not drawn any matches. They have played $24$ matches.
+
+How many matches they have won?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of matches they won $= a$
+
+As per the question,
+
+No. of matches they lost $= 3a$
+
+$
+\begin{aligned}
+a + 3a        &= 24 \\\\
+4a            &= 24 \\\\
+a             &= \dfrac {24} {4} \\\\
+a             &= \dfrac {6 \times 4} {4} \\\\
+a             &= \dfrac {6 \times \cancel {4}} {\cancel {4}} \\\\
+a             &= 6
+\end{aligned}
+$
+
+They won $6$ matches.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
 <p>99B747C3-A340-4D5D-B8DF-E82C580210CB</p>
 </div>
 <div class='topics'>
@@ -7547,6 +8680,370 @@ $4109$
 </div>
 </div>
 
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>446FD4C3-C13E-458E-8369-C68915BBFD04</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next term in each of these sequences  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$14, \quad 25, \quad 36, \quad 47,
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $11$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+11)} }
+&&  \footnotesize {\maroonC {(+11)} }
+&&  \footnotesize {\maroonC {(+11)} }
+&&  \footnotesize {\maroonC {(+11)} }  \\
+14, && 25, && 36, && 47, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{missing number} &= 47 + 11 \\\\
+                      &= 58
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$58$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7000, \quad 700, \quad 70, \quad 7,
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term we get by dividing previous term by $10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }  \\
+7000, && 700, && 70, && 7, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{missing number} &= 7 \div 10 \\\\
+                      &= 0.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2, \quad 7, \quad 22, \quad 67,
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term we get by Multiplying previous term by $3$ and by adding $1$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC {(\times 3 + 1)} }  \\
+2, && 7, && 22, && 67, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{missing number} &= 67 \times 3 + 1 \\\\
+                      &= 202
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$202$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$23, \quad 16, \quad 9, \quad 2 ,
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }
+&&  \footnotesize {\maroonC {(-7)} }  \\
+23, && 16, && 9, && 2 , && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{missing number} &= 2 - 7 \\\\
+                      &= -5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>1115708B-2D6C-4344-9D28-B19E0F519E68</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A tin of cookies costs $\pounds 3.69$ and a bag of jelly babies cost $\pounds 1.55$. 
+Tracey and Cat buy $2$ tins of cookies and a bag of jelly babies. They pay with a $\pounds 20$ note. 
+How much change should they get? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Total Cost}       &= 2 \times \pounds 3.69 + \pounds 1.55 \\\\
+                         &= 7.38 + 1.55 \\\\
+                         &= \pounds 8.93 \\\\
+\text {Change received}  &= 20 - 8.93 \\\\
+                         &= \pounds 11.07
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 11.07$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A normal tin contains $40$ cookies. A special offer tin contains $\dfrac{3}{10}$ more cookies. 
+
+Work out how many cookies there are in a special offer tin.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total cookies $= 40 + \dfrac {3} {10} \ \text {of} \ 40$
+
+$
+\begin{aligned}
+\text {Total cookies}   &= 40 + \dfrac {3} {10} \ \text {of} \ 40 \\\\
+                        &= 40 + \dfrac {3} {10} \times 40 \\\\
+                        &= 40 + \dfrac {3 \times 40} {10} \\\\
+                        &= 40 + \dfrac {3 \times 4 \times 10} {10} \\\\
+                        &= 40 + \dfrac {3 \times 4 \times \cancel {10}} {\cancel {10}} \\\\
+                        &= 40 + 3 \times 4 \\\\
+                        &= 40 + 12 \\\\
+                        &= 52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2.toml</p>
 </div>
@@ -7701,6 +9198,263 @@ $2$
 </ul>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2.toml</p>
+</div>
+<div class='rag'>
+<p>rag_nm_g1</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_nm_g1 question'>
+<div class='uuid'>
+<p>996FD4E2-CE51-4504-87D7-7C0A1FD2F214</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in each of these sequences:  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion TODO'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$30000,  \quad 3000,  \quad 300,  \quad 30
+\quad \text{\textunderscore \textunderscore \textunderscore},
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }
+&&  \footnotesize {\maroonC {(\div 10)} }  \\
+30000,  && 3000,  && 300,  && 30 && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 30 \div 10 \\\\
+                                &= 3 \\\\
+\text{Second missing number}    &= 3 \div 10 \\\\
+                                &= 0.3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, 0.3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3, \quad 6, \quad 12, \quad 24
+\quad \text{\textunderscore \textunderscore \textunderscore},
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }
+&&  \footnotesize {\maroonC {(\times 2)} }  \\
+3, && 6, && 12, && 24 && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}  &= 24 \times 2 \\\\
+                             &= 48 \\\\
+\text{Second missing number} &= 48 \times 2 \\\\
+                             &= 96
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48, 96$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, \quad 1, \quad 2, \quad 3, \quad 5, \quad 8,
+\quad \text{\textunderscore \textunderscore \textunderscore},
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+The next term is calculated by adding the previous term to the current term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+0)} }
+&&  \footnotesize {\maroonC {(+1)} }
+&&  \footnotesize {\maroonC {(+2)} }
+&&  \footnotesize {\maroonC {(+3)} }
+&&  \footnotesize {\maroonC {(+5)} }
+&&  \footnotesize {\maroonC {(+8)} }
+&&  \footnotesize {\maroonC {(+13)} }  \\
+1, && 1, && 2, && 3, && 5, && 8, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}  &= 8 + 5 \\\\
+                             &= 13 \\\\
+\text{Second missing number} &= 13 + 8 \\\\
+                             &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13, 21$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1, \quad 4, \quad 9, \quad 16,
+\quad \text{\textunderscore \textunderscore \textunderscore},
+\quad \text{\textunderscore \textunderscore \textunderscore}
+$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+It is a sequence of square numbers.
+
+$
+\begin{matrix}
+&  \footnotesize {\maroonC {(1^2)} }
+&  \footnotesize {\maroonC {(2^2)} }
+&  \footnotesize {\maroonC {(3^2)} }
+&  \footnotesize {\maroonC {(4^2)} }
+&  \footnotesize {\maroonC {(5^2)} }
+&  \footnotesize {\maroonC {(6^2)} }  \\
+1, & 4, & 9, & 16, & \text{\textunderscore \textunderscore \textunderscore}, & \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}  &= 5^2 \\\\
+                             &= 25 \\\\
+\text{Second missing number} &= 6^2 \\\\
+                             &= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25, 36$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1.toml</p>
 </div>
 <div class='rag'>
 <p>rag_nm_g1</p>
